@@ -1,0 +1,1270 @@
+Customer Id	Customer Fname	Customer Lname	Customer Segment	Customer City	Customer Country	Customer State	Customer Street	Customer Zipcode
+5197	Brenda	Jordan	Home Office	Caguas	Puerto Rico	 PR	4692 Jagged Thicket	725
+1535	Frank	Livingston	Home Office	Caguas	Puerto Rico	 PR 	5161 Crystal Quail Jetty	725
+6122	Johnny	Smith	Home Office	Caguas	Puerto Rico	 PR	1465 Round Fawn Passage	725
+9451	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	5723 Cinder Loop	725
+1840	Jerry	Smith	Consumer	Caguas	Puerto Rico	PR	427 Grand Branch Hill	725
+6757	Mary	Freeman	Consumer	Caguas	Puerto Rico	PR	2035 Lazy Diversion	725
+3972	Laura	Bennett	Consumer	Caguas	Puerto Rico	PR 	4520 Grand Port	725
+9316	Megan	Sanders	Consumer	Caguas	Puerto Rico	 PR	7489 Green End	725
+6757	Mary	Freeman	Consumer	Caguas	Puerto Rico	PR	2035 Lazy Diversion	725
+11213	Mary	Black	Consumer	Caguas	Puerto Rico	PR	620 Thunder Creek Towers	725
+3474	Jack	Hatfield	Consumer	Caguas	Puerto Rico	NY	555 Lazy Robin Freeway	725
+9316	Megan	Sanders	Consumer	Caguas	Puerto Rico	 PR	7489 Green End	725
+6246	Melissa	Ramirez	Consumer	Rome	EE. UU.	 TX	2459 Round Spring Towers	13440
+8741	Gregory	Smith	Consumer	Vista	EE. UU.	WI	690 Colonial Pine Passage	92083
+8050	Elizabeth	Smith	Consumer	Fort Worth	EE. UU.	TX	739 Jagged Goose Street	76106
+8050	Elizabeth	Smith	Consumer	Fort Worth	EE. UU.	TX	739 Jagged Goose Street	76106
+5474	Mary	Sanchez	Consumer	Fond Du Lac	EE. UU.	FL	29 Gentle Spring Mews	54935
+474	Mary	Patton	Consumer	Philadelphia	EE. UU.	PA	5532 Tawny Pines	19139
+12255	Mary	Davis	Consumer	Ontario	EE. UU.	HI	4502 Hazy Run	91764
+10288	Mark	Smith	Consumer	Oviedo	EE. UU.	CA	6026 Stony Elk Hill	32765
+4717	Mary	Sanders	Consumer	Buffalo	EE. UU.	NY	4903 Lazy Parkway	14221
+4799	Paul	Jensen	Consumer	Honolulu	EE. UU.	HI	3902 Foggy Swale	96822
+4533	Walter	Chavez	Consumer	Oceanside	EE. UU.	NY	990 Dewy Crest	92056
+12383	Joyce	Phillips	Consumer	North Tonawanda	EE. UU.	IL	9899 Hazy Falls	14120
+3518	Daniel	Smith	Consumer	Clovis	EE. UU.	MA	7449 Merry Chase	93611
+4674	Mary	Lynn	Consumer	Jamaica	EE. UU.	CA	7694 Velvet Turnabout	11434
+8519	Pamela	Michael	Consumer	Granite City	EE. UU.	AZ	1585 Stony Rabbit Hollow	62040
+5302	Betty	Smith	Consumer	Medford	EE. UU.	CA	2289 Cozy Promenade	2155
+3594	Mary	Smith	Consumer	Pomona	EE. UU.	PA	830 Clear Sky Vale	91766
+9890	Christian	Luna	Consumer	Tempe	EE. UU.	CO	2833 Clear Valley	85281
+1410	Mary	Smith	Consumer	Santa Ana	EE. UU.	CA	4682 Cozy Freeway	92703
+7521	Mary	Ortega	Consumer	York	EE. UU.	PA	4196 Noble Beacon Mews	17402
+2106	Mary	Grimes	Consumer	Aurora	EE. UU.	CO	231 Bright Alley	80010
+8144	Mary	Summers	Consumer	Simi Valley	EE. UU.	TX	3926 Stony Gardens	93065
+5643	Tiffany	Caldwell	Consumer	Silver Spring	EE. UU.	PA	3632 Fallen Pioneer Isle	20904
+2041	Paul	Garcia	Consumer	Saint Paul	EE. UU.	MN	1070 Dusty Beacon Maze	55124
+7537	Stephen	Lee	Consumer	San Antonio	EE. UU.	NY	469 Crystal Anchor Mountain	78201
+3056	George	Middleton	Consumer	Philadelphia	EE. UU.	PA	3601 Cozy Creek Trail	19143
+3056	George	Middleton	Consumer	Philadelphia	EE. UU.	PA	3601 Cozy Creek Trail	19143
+7967	Samuel	Jones	Consumer	Philadelphia	EE. UU.	PA	7007 Quiet Via	19149
+1758	Larry	King	Consumer	Bronx	EE. UU.	NY	2515 Burning Boulevard	10466
+4398	Mary	Yoder	Consumer	Azusa	EE. UU.	NJ	1010 Rustic Fox View	91702
+5687	Mary	Chapman	Consumer	Fort Lauderdale	EE. UU.	FL	1430 Easy Spring Key	33324
+8534	Mary	Rose	Consumer	San Antonio	EE. UU.	OH	3050 Crystal Fawn Green	78201
+3372	Virginia	Smith	Consumer	Princeton	EE. UU.	VA	3139 Golden Autumn Byway	8540
+10927	Jessica	Lang	Consumer	Perth Amboy	EE. UU.	KY 	3356 Crystal Farm	8861
+3597	Margaret	Smith	Consumer	Miami	EE. UU.	NY	8473 Crystal Hickory Path	33162
+2052	Mary	Anthony	Consumer	Loveland	EE. UU.	IL	874 Thunder Front	45140
+4399	Richard	Smith	Consumer	Virginia Beach	EE. UU.	NY	9627 Little Terrace	23455
+185	Deborah	Smith	Consumer	Louisville	EE. UU.	AZ	9295 Emerald Downs	40214
+3441	Emma	Russell	Consumer	Lockport	EE. UU.	MA	8400 Clear Wagon  Row	14094
+11947	Mary	Smith	Consumer	Chicago	EE. UU.	IL	5420 Crystal Hill	60608
+1555	Adam	Smith	Consumer	Staten Island	EE. UU.	NY	4047 Grand Port	10314
+9399	Mary	Bennett	Consumer	Tucson	EE. UU.	NY	6575 Quiet Loop	85719
+2792	Roy	Carey	Consumer	Plymouth	EE. UU.	MI	4317 Emerald Bay	2360
+10118	Mary	Reynolds	Consumer	Cleveland	EE. UU.	TX	5325 Amber Blossom Way	44120
+8544	Sarah	Smith	Consumer	Bronx	EE. UU.	NY	3065 Foggy Horse Port	10458
+4296	Edward	Sanchez	Consumer	Webster	EE. UU.	MD	3867 Middle Leaf By-pass	14580
+4391	Harry	Smith	Consumer	Stockton	EE. UU.	IL	6332 Round Range	95207
+2882	Mary	Decker	Consumer	Amarillo	EE. UU.	FL	6826 Quiet Lane	79109
+3283	Charles	Ramos	Consumer	Martinsburg	EE. UU.	FL	3882 Golden Maze	25401
+397	Mary	Delgado	Consumer	Cumberland	EE. UU.	RI	1102 Misty Rabbit Alley	21502
+4104	Debra	Butler	Consumer	Pekin	EE. UU.	IL	8581 Blue Crescent	61554
+12214	Jennifer	Summers	Consumer	Tallahassee	EE. UU.	GA	2749 Emerald Glen	32308
+10699	Mary	Lee	Consumer	Jacksonville	EE. UU.	 PR	7320 Wishing Rise Mall 	32225
+2091	Doris	Smith	Consumer	Woonsocket	EE. UU.	 PR	3087 Hazy Glen	2895
+10474	Benjamin	Case	Consumer	Stockton	EE. UU.	 PR 	125 Easy Lake Close	95206
+7504	Stephanie	Smith	Consumer	Lithonia	EE. UU.	NY	4263 Cozy Embers Ledge	30058
+8133	Benjamin	Riddle	Home Office	Caguas	Puerto Rico	AZ	7046 Sleepy Berry Estates	725
+1429	Pamela	Murphy	Home Office	Caguas	Puerto Rico	OR	6982 Cinder Fawn Cape	725
+1834	Jane	Nichols	Home Office	Caguas	Puerto Rico	CA	5105 Tawny Park	725
+9451	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	5723 Cinder Loop	725
+3497	Mary	Smith	Consumer	New York	EE. UU.	NY	6449 Lazy Robin Drive	10016
+10066	Janice	Smith	Consumer	Phoenix	EE. UU.	CA	6229 Clear Oak Lookout	85033
+4248	Jonathan	Smith	Consumer	Eugene	EE. UU.	CA	72 Noble Path	97402
+6473	Mary	Castillo	Consumer	Long Beach	EE. UU.	CA	870 Amber Quail Circuit	90806
+12288	Karen	Smith	Consumer	Algonquin	EE. UU.	IL	1726 Velvet Thicket	60102
+7764	Mary	Wilson	Consumer	Indianapolis	EE. UU.	PA	6163 Lazy Pointe	46227
+11720	Mary	Smith	Consumer	Los Angeles	EE. UU.	CA	5530 Emerald Elk Mews	90003
+3935	Harold	Hayes	Consumer	Buena Park	EE. UU.	CA	3740 Velvet Rise	90620
+8792	Mary	Smith	Consumer	Hayward	EE. UU.	GA	3204 Cinder Line	94541
+10416	Mary	Goodwin	Consumer	Catonsville	EE. UU.	NJ	2476 Grand Leaf Townline	21228
+424	Stephen	Douglas	Consumer	Carlisle	EE. UU.	CA	1111 Cotton Vista	17013
+10031	Crystal	Blake	Consumer	Staten Island	EE. UU.	TN	6764 Tawny Link	10306
+12288	Karen	Smith	Consumer	Algonquin	EE. UU.	IL	1726 Velvet Thicket	60102
+10819	Michelle	Koch	Consumer	Long Beach	EE. UU.	IL	858 Emerald Key	90806
+5418	Mary	Roy	Consumer	Marietta	EE. UU.	CA	6292 Wishing Branch Via	30066
+7272	Benjamin	Hurst	Consumer	Jersey City	EE. UU.	NY	7697 Easy Butterfly Centre	7305
+5329	Jack	Townsend	Consumer	Long Beach	EE. UU.	MA	4352 Heather Timber Quay	90805
+11720	Mary	Smith	Consumer	Los Angeles	EE. UU.	CA	5530 Emerald Elk Mews	90003
+7810	Henry	Smith	Consumer	Memphis	EE. UU.	TN	1490 Amber Forest Forest	38109
+3624	Grace	Shah	Consumer	Lutz	EE. UU.	PA	9044 Round Private	33549
+7331	Pamela	Strong	Consumer	Lombard	EE. UU.	 PR	2557 Gentle Hills Wynd	60148
+125	Mary	Gallagher	Consumer	Oxnard	EE. UU.	CA	9831 Sunny Cloud Valley	93030
+9419	Mary	Smith	Consumer	Brooklyn	EE. UU.	NY	6269 Harvest Shadow Meadow	11207
+1250	Teresa	Smith	Consumer	New Bedford	EE. UU.	 PR	9725 Cotton Forest	2740
+7683	Cynthia	Wallace	Consumer	Newburgh	EE. UU.	 PR	6412 Quiet Swale	12550
+2728	Mary	Adams	Consumer	Miami	EE. UU.	 PR	2459 Velvet Brook Woods	33175
+4612	Mary	Wilson	Consumer	Lansdale	EE. UU.	 PR	5078 Foggy Panda Highlands	19446
+9419	Mary	Smith	Consumer	Brooklyn	EE. UU.	NY	6269 Harvest Shadow Meadow	11207
+125	Mary	Gallagher	Consumer	Oxnard	EE. UU.	CA	9831 Sunny Cloud Valley	93030
+6408	Kevin	Cooper	Home Office	Caguas	Puerto Rico	 PR	5085 Iron Vale	725
+2431	Olivia	Moore	Home Office	Caguas	Puerto Rico	 PR	7775 Sleepy Farm	725
+6497	Mary	Lee	Home Office	Aguadilla	Puerto Rico	 PR	7381 Green Autoroute	603
+9011	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	5959 Harvest Forest Boulevard	725
+6497	Mary	Lee	Home Office	Aguadilla	Puerto Rico	 PR	7381 Green Autoroute	603
+716	Louis	Bishop	Home Office	Caguas	Puerto Rico	 PR	5192 Foggy Elk Village	725
+7393	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	4210 Silver Heights	725
+3405	Bruce	Paul	Home Office	Caguas	Puerto Rico	 PR	8852 Shady Glade	725
+3150	Ruth	Smith	Home Office	Caguas	Puerto Rico	 PR	414 Colonial Carrefour	725
+7687	Evelyn	Valencia	Home Office	Caguas	Puerto Rico	 PR	9183 Velvet Deer Circuit	725
+2324	Zachary	Smith	Home Office	Caguas	Puerto Rico	 PR	9279 Quaking Key	725
+7393	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	4210 Silver Heights	725
+4594	Mary	Caldwell	Home Office	Caguas	Puerto Rico	 PR	8039 Grand Trail	725
+1171	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	5509 Golden Sky Towers	725
+2851	Mary	Huffman	Home Office	Caguas	Puerto Rico	PR	1795 Thunder Ramp	725
+2431	Olivia	Moore	Home Office	Caguas	Puerto Rico	 PR	7775 Sleepy Farm	725
+223	Ralph	Smith	Home Office	Caguas	Puerto Rico	OR	7302 Cotton Freeway	725
+9189	Richard	Smith	Home Office	Caguas	Puerto Rico	CA	8310 Broad Centre	725
+6827	Mary	Smith	Home Office	Caguas	Puerto Rico	CA	4788 Quaking Stead	725
+6944	Kyle	Robertson	Home Office	Caguas	Puerto Rico	PR 	4343 Wishing River Subdivision	725
+7393	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	4210 Silver Heights	725
+2924	Timothy	Kirby	Home Office	Caguas	Puerto Rico	PR 	8400 Harvest Blossom Gardens	725
+3546	Mary	Cannon	Home Office	Caguas	Puerto Rico	NY	3178 Golden Villas	725
+9082	Diane	Terry	Home Office	Caguas	Puerto Rico	PR	7868 Iron Fawn Mall 	725
+716	Louis	Bishop	Home Office	Caguas	Puerto Rico	 PR	5192 Foggy Elk Village	725
+6944	Kyle	Robertson	Home Office	Caguas	Puerto Rico	PR 	4343 Wishing River Subdivision	725
+2324	Zachary	Smith	Home Office	Caguas	Puerto Rico	 PR	9279 Quaking Key	725
+11782	Michelle	Dickson	Home Office	Carolina	Puerto Rico	PA	7628 Foggy Brook Passage	983
+8511	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	3408 Tawny Spring Glen	725
+2851	Mary	Huffman	Home Office	Caguas	Puerto Rico	PR	1795 Thunder Ramp	725
+7393	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	4210 Silver Heights	725
+9011	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	5959 Harvest Forest Boulevard	725
+9011	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	5959 Harvest Forest Boulevard	725
+10610	Nancy	Bryant	Corporate	Caguas	Puerto Rico	PR	1133 Cozy Embers Plaza	725
+10046	Mary	Smith	Corporate	Caguas	Puerto Rico	PR	8407 Colonial Cloud Mall 	725
+4429	Sara	Graves	Corporate	Dallas	EE. UU.	NY	7190 Silver Horse Glade	75220
+8037	Mary	Mclaughlin	Corporate	Salem	EE. UU.	OR	6774 Noble Branch Knoll	97303
+8037	Mary	Mclaughlin	Corporate	Salem	EE. UU.	OR	6774 Noble Branch Knoll	97303
+9352	Mary	Lewis	Corporate	South El Monte	EE. UU.	NY	9623 Clear Landing	91733
+10081	Mary	Castillo	Corporate	San Diego	EE. UU.	CA	9900 Hidden Rise Downs	92115
+9432	Hannah	Smith	Corporate	Sugar Land	EE. UU.	NY	5579 Quiet Nectar Circuit	77479
+695	Sara	Smith	Corporate	Roswell	EE. UU.	CA	4145 Noble Ridge	88201
+9511	Joshua	Brady	Corporate	Harvey	EE. UU.	CA	8414 Wishing Horse Acres	60426
+2035	Mary	Salas	Corporate	Lockport	EE. UU.	IL	7698 Bright Grove Island	14094
+6492	Bryan	Smith	Corporate	Provo	EE. UU.	IL 	9993 Easy Private	84604
+9112	Joseph	Callahan	Corporate	Bay Shore	EE. UU.	FL	6528 Round Private	11706
+7532	Mary	Liu	Corporate	Philadelphia	EE. UU.	PA	4565 Quiet Fox Hill	19104
+10081	Mary	Castillo	Corporate	San Diego	EE. UU.	CA	9900 Hidden Rise Downs	92115
+6950	Nicholas	Smith	Corporate	Marrero	EE. UU.	PA	603 Green Sky Promenade	70072
+4830	Henry	Jones	Corporate	Philadelphia	EE. UU.	PA	6051 Emerald Arbor	19131
+11797	Kimberly	Smith	Corporate	West Covina	EE. UU.	UT	9739 Round Spring Expressway	91790
+6967	Johnny	Rodriguez	Corporate	Oceanside	EE. UU.	PR	8205 Silver Treasure Loop	92054
+2891	Victoria	Pitts	Corporate	Lake Forest	EE. UU.	CA	8414 Velvet Island Ramp	92630
+9345	Mary	Branch	Corporate	Aurora	EE. UU.	CO	4767 Wishing Round	80013
+9345	Mary	Branch	Corporate	Aurora	EE. UU.	CO	4767 Wishing Round	80013
+3306	Mary	Woods	Corporate	New York	EE. UU.	NY	8289 Foggy Meadow	10023
+6670	Betty	Lopez	Corporate	West Chester	EE. UU.	PR	4971 Indian Campus	19380
+9723	Rose	White	Corporate	Los Angeles	EE. UU.	CA	1396 Silver Berry Impasse	90024
+1662	George	Smith	Corporate	Bronx	EE. UU.	NY	7449 Tawny Glen	10460
+2709	Mary	Smith	Corporate	New York	EE. UU.	NY	4575 Middle Crescent	10128
+12101	Samantha	Smith	Corporate	Highland	EE. UU.	OH	1773 Amber Walk	92346
+8078	Janet	Thomas	Corporate	Brooklyn	EE. UU.	NY	6127 Dewy Goose Downs	11220
+2891	Victoria	Pitts	Corporate	Lake Forest	EE. UU.	CA	8414 Velvet Island Ramp	92630
+2540	Patricia	Smith	Corporate	Indianapolis	EE. UU.	NY	5062 Silver Corners	46227
+4329	Mary	Ayala	Corporate	Lindenhurst	EE. UU.	NY	4482 Velvet Farm	11757
+8841	Mary	Smith	Corporate	Los Angeles	EE. UU.	CA	183 Cozy Pond Trail	90037
+6248	Ronald	Hanson	Consumer	Union City	EE. UU.	CA 	5076 Amber Blossom Hollow	94587
+7832	Stephen	Nguyen	Corporate	Chicago	EE. UU.	IL	1706 Colonial Plaza	60610
+1944	Mary	Smith	Home Office	Crystal Lake	EE. UU.	NY	9929 Hidden Berry Campus	60014
+1788	Timothy	Smith	Consumer	Fort Lauderdale	EE. UU.	FL 	7516 Hidden Valley	33324
+8480	Gary	Meza	Consumer	Rego Park	EE. UU.	PR	6040 Sunny Bay	11374
+7465	Andrew	Smith	Consumer	Albuquerque	EE. UU.	NC	7732 Honey Dale	87120
+10173	Kathleen	Smith	Consumer	Philadelphia	EE. UU.	PA	1043 Golden Timber Impasse	19111
+3754	Mary	Sims	Home Office	Columbus	EE. UU.	PR	9853 Foggy Anchor Extension	31907
+7810	Henry	Smith	Consumer	Memphis	EE. UU.	TN	1490 Amber Forest Forest	38109
+6370	Andrea	Smith	Corporate	Provo	EE. UU.	PR	8382 Rustic Branch Dale	84604
+6374	Rebecca	Briggs	Corporate	Caguas	Puerto Rico	PR	6764 Fallen Log Grove	725
+12355	Victoria	Smith	Consumer	Lombard	EE. UU.	PR	8569 Emerald Blossom Concession	60148
+9727	Mary	Cruz	Home Office	Chicago	EE. UU.	IL	6540 Thunder Square	60626
+1169	Mary	Smith	Corporate	Oxnard	EE. UU.	CA	1055 Crystal Woods	93030
+7269	Adam	Hodges	Consumer	San Jose	EE. UU.	PR	5808 Silver Rise Circuit	95111
+2588	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	1497 Little Walk	725
+8544	Sarah	Smith	Consumer	Bronx	EE. UU.	NY	3065 Foggy Horse Port	10458
+11412	Mary	Harris	Corporate	Santa Ana	EE. UU.	TX 	2882 Quaking Place	92701
+10428	Tammy	Chavez	Consumer	Caguas	Puerto Rico	TX	3200 Sunny Grove Jetty	725
+8663	Mary	Kim	Consumer	Chicago	EE. UU.	IL	6812 Middle Blossom Forest	60647
+7114	Deborah	Smith	Corporate	Cleveland	EE. UU.	TX	4994 Dusty Bear Village	44109
+9316	Megan	Sanders	Consumer	Caguas	Puerto Rico	 PR	7489 Green End	725
+5884	Gary	Smith	Consumer	Portland	EE. UU.	WV	4062 Dusty Quail Ridge	97229
+4580	Charles	Smith	Consumer	Astoria	EE. UU.	CA	2488 Quiet Orchard	11103
+11696	Mary	Smith	Corporate	Brooklyn	EE. UU.	NY	1829 Crystal Goose Promenade	11206
+7680	Sandra	Heath	Consumer	Freeport	EE. UU.	IL	4280 Hazy Cloud Trail	11520
+9402	Amber	Smith	Consumer	Caguas	Puerto Rico	TX	523 Sleepy Hills Front	725
+10454	Anthony	Leblanc	Home Office	Milpitas	EE. UU.	MO	4806 Sunny Forest Heath	95035
+10794	Mary	Fox	Consumer	Lenoir	EE. UU.	NV	4097 Little Spring Mall 	28645
+10173	Kathleen	Smith	Consumer	Philadelphia	EE. UU.	PA	1043 Golden Timber Impasse	19111
+7302	Angela	Little	Corporate	Brooklyn	EE. UU.	NY	2803 Wishing Branch Place	11208
+3144	Pamela	Browning	Home Office	Hialeah	EE. UU.	CA	2820 Silent Corners	33016
+4098	Mary	Lang	Consumer	Caguas	Puerto Rico	CA	398 Pleasant Mountain	725
+11667	Mary	Brooks	Corporate	Hickory	EE. UU.	MA	786 Golden Forest Terrace	28601
+10610	Nancy	Bryant	Corporate	Caguas	Puerto Rico	PR	1133 Cozy Embers Plaza	725
+6448	Mary	Lawrence	Corporate	Caguas	Puerto Rico	PR 	4839 Velvet Place	725
+6448	Mary	Lawrence	Corporate	Caguas	Puerto Rico	PR 	4839 Velvet Place	725
+3298	Mary	Ray	Corporate	Caguas	Puerto Rico	PR 	75 Noble Swale	725
+10046	Mary	Smith	Corporate	Caguas	Puerto Rico	PR	8407 Colonial Cloud Mall 	725
+2911	Mary	Smith	Corporate	Caguas	Puerto Rico	PR 	9166 Golden Nectar Corner	725
+6448	Mary	Lawrence	Corporate	Caguas	Puerto Rico	PR 	4839 Velvet Place	725
+6742	David	Richardson	Corporate	Caguas	Puerto Rico	PR 	3539 Gentle Heights	725
+2911	Mary	Smith	Corporate	Caguas	Puerto Rico	PR 	9166 Golden Nectar Corner	725
+6448	Mary	Lawrence	Corporate	Caguas	Puerto Rico	PR 	4839 Velvet Place	725
+9909	Mary	Wong	Corporate	Caguas	Puerto Rico	PR 	9856 High Bear Crossing	725
+9909	Mary	Wong	Corporate	Caguas	Puerto Rico	PR 	9856 High Bear Crossing	725
+3731	Beverly	Smith	Corporate	Caguas	Puerto Rico	PR 	610 Pleasant Shadow Heights	725
+2205	Wayne	Rodriguez	Corporate	Caguas	Puerto Rico	PR 	4853 Silent Mount	725
+2773	Linda	Hale	Corporate	Caguas	Puerto Rico	PR	2544 Honey Rise Loop	725
+8766	Mary	Duncan	Corporate	Caguas	Puerto Rico	PR	1011 Iron Pioneer Autoroute	725
+2205	Wayne	Rodriguez	Corporate	Caguas	Puerto Rico	PR 	4853 Silent Mount	725
+2205	Wayne	Rodriguez	Corporate	Caguas	Puerto Rico	PR 	4853 Silent Mount	725
+10948	Mary	Torres	Corporate	Caguas	Puerto Rico	PR	4709 Red Close	725
+7783	Amy	Kent	Consumer	Hanover	EE. UU.	PR	8598 Harvest Beacon Plaza	17331
+2360	Denise	Smith	Home Office	San Antonio	EE. UU.	PR	2641 Noble Point	78223
+1209	Mary	Webb	Consumer	San Marcos	EE. UU.	PR	2337 Middle Embers Campus	78666
+3421	Kathryn	Norris	Corporate	Caguas	Puerto Rico	PR	8609 Grand Harbour	725
+1303	Mary	Contreras	Corporate	Dallas	EE. UU.	PR	3977 Colonial Towers	75231
+11307	Mary	Smith	Corporate	Caguas	Puerto Rico	PR	6826 Foggy Close	725
+8254	Jesse	Esparza	Consumer	Martinsburg	EE. UU.	PR	7773 Merry Autoroute	25401
+11531	Barbara	Gordon	Corporate	Los Angeles	EE. UU.	CA	5406 Round Bear Parkway	90004
+10731	Mary	Smith	Consumer	Riverside	EE. UU.	CA	6630 Sleepy Mews	92507
+1443	Denise	Cohen	Consumer	West Orange	EE. UU.	NJ	8361 Misty Subdivision	7052
+3519	Nicholas	Ruiz	Consumer	San Antonio	EE. UU.	PR	4105 Silver Quail Mount	78240
+9414	Gloria	Smith	Consumer	Florissant	EE. UU.	MO	8905 Heather Bluff Place	63033
+10954	Mary	White	Consumer	Las Vegas	EE. UU.	PR	8957 Old View View	89119
+2131	Evelyn	Green	Consumer	Annandale	EE. UU.	VA	5149 Dusty Pony Common	22003
+2131	Evelyn	Green	Consumer	Annandale	EE. UU.	VA	5149 Dusty Pony Common	22003
+2131	Evelyn	Green	Consumer	Annandale	EE. UU.	VA	5149 Dusty Pony Common	22003
+3804	Andrew	Le	Consumer	Hagerstown	EE. UU.	MD	7455 High Promenade	21740
+3804	Andrew	Le	Consumer	Hagerstown	EE. UU.	MD	7455 High Promenade	21740
+4276	Jacqueline	Page	Consumer	Riverside	EE. UU.	CA	9008 Old Lane	92507
+9414	Gloria	Smith	Consumer	Florissant	EE. UU.	MO	8905 Heather Bluff Place	63033
+6045	Mary	Christensen	Consumer	Bakersfield	EE. UU.	PR	245 Hazy Dale	93306
+4276	Jacqueline	Page	Consumer	Riverside	EE. UU.	CA	9008 Old Lane	92507
+1443	Denise	Cohen	Consumer	West Orange	EE. UU.	NJ	8361 Misty Subdivision	7052
+2131	Evelyn	Green	Consumer	Annandale	EE. UU.	VA	5149 Dusty Pony Common	22003
+9414	Gloria	Smith	Consumer	Florissant	EE. UU.	MO	8905 Heather Bluff Place	63033
+4147	Karen	Gillespie	Consumer	Dorchester Center	EE. UU.	MA	3072 Umber Cape	2124
+3804	Andrew	Le	Consumer	Hagerstown	EE. UU.	MD	7455 High Promenade	21740
+3804	Andrew	Le	Consumer	Hagerstown	EE. UU.	MD	7455 High Promenade	21740
+4147	Karen	Gillespie	Consumer	Dorchester Center	EE. UU.	MA	3072 Umber Cape	2124
+4276	Jacqueline	Page	Consumer	Riverside	EE. UU.	CA	9008 Old Lane	92507
+4147	Karen	Gillespie	Consumer	Dorchester Center	EE. UU.	MA	3072 Umber Cape	2124
+1443	Denise	Cohen	Consumer	West Orange	EE. UU.	NJ	8361 Misty Subdivision	7052
+1171	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	5509 Golden Sky Towers	725
+8511	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	3408 Tawny Spring Glen	725
+1171	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	5509 Golden Sky Towers	725
+3358	Anthony	Wright	Home Office	Caguas	Puerto Rico	PR 	8950 Stony Forest Edge	725
+1171	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	5509 Golden Sky Towers	725
+2924	Timothy	Kirby	Home Office	Caguas	Puerto Rico	PR 	8400 Harvest Blossom Gardens	725
+2260	Laura	Haas	Home Office	Caguas	Puerto Rico	PR	4948 Stony Close	725
+6944	Kyle	Robertson	Home Office	Caguas	Puerto Rico	PR 	4343 Wishing River Subdivision	725
+2260	Laura	Haas	Home Office	Caguas	Puerto Rico	PR	4948 Stony Close	725
+3358	Anthony	Wright	Home Office	Caguas	Puerto Rico	PR 	8950 Stony Forest Edge	725
+716	Louis	Bishop	Home Office	Caguas	Puerto Rico	 PR	5192 Foggy Elk Village	725
+6408	Kevin	Cooper	Home Office	Caguas	Puerto Rico	 PR	5085 Iron Vale	725
+9082	Diane	Terry	Home Office	Caguas	Puerto Rico	PR	7868 Iron Fawn Mall 	725
+2111	Joan	Smith	Home Office	Caguas	Puerto Rico	PR	4028 Rustic Valley	725
+2111	Joan	Smith	Home Office	Caguas	Puerto Rico	PR	4028 Rustic Valley	725
+2324	Zachary	Smith	Home Office	Caguas	Puerto Rico	 PR	9279 Quaking Key	725
+2924	Timothy	Kirby	Home Office	Caguas	Puerto Rico	PR 	8400 Harvest Blossom Gardens	725
+3405	Bruce	Paul	Home Office	Caguas	Puerto Rico	 PR	8852 Shady Glade	725
+3150	Ruth	Smith	Home Office	Caguas	Puerto Rico	 PR	414 Colonial Carrefour	725
+3150	Ruth	Smith	Home Office	Caguas	Puerto Rico	 PR	414 Colonial Carrefour	725
+4594	Mary	Caldwell	Home Office	Caguas	Puerto Rico	 PR	8039 Grand Trail	725
+9444	Mary	Carpenter	Home Office	Caguas	Puerto Rico	PR 	5736 High Limits	725
+7687	Evelyn	Valencia	Home Office	Caguas	Puerto Rico	 PR	9183 Velvet Deer Circuit	725
+7393	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	4210 Silver Heights	725
+542	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	2991 Silent Deer Landing	725
+11329	Hannah	Smith	Home Office	Caguas	Puerto Rico	PR	5086 Emerald Fox Farms	725
+3570	Mary	Nelson	Home Office	Caguas	Puerto Rico	PR 	3909 Hidden Treasure Beach	725
+650	Austin	Sexton	Home Office	Caguas	Puerto Rico	PR 	4691 Cinder Crest	725
+9353	Michael	Scott	Home Office	Caguas	Puerto Rico	PR 	5703 Tawny Creek Townline	725
+54	Mary	Olson	Home Office	Caguas	Puerto Rico	PR 	7333 Cinder Way	725
+12151	Vincent	Krueger	Home Office	Caguas	Puerto Rico	PR 	9404 Heather Bluff Dale	725
+11329	Hannah	Smith	Home Office	Caguas	Puerto Rico	PR	5086 Emerald Fox Farms	725
+10018	Gregory	Rodriguez	Home Office	Caguas	Puerto Rico	PR 	1632 Green Fawn Corners	725
+3182	Frances	Smith	Home Office	Caguas	Puerto Rico	PR 	7786 Middle Private	725
+4936	Kyle	Smith	Home Office	Caguas	Puerto Rico	PR 	8344 Noble Mountain Gate	725
+14630	Kirestin	Barr	Consumer	Caguas	Puerto Rico	PR 	4722 Round Embers Falls	725
+13256	Nora	Downs	Consumer	Caguas	Puerto Rico	PR	1836 Cozy View Orchard	725
+14665	Jennifer	Stokes	Consumer	Caguas	Puerto Rico	PR	5257 Umber Field	725
+13363	Madonna	Ingram	Consumer	Caguas	Puerto Rico	PR	9079 Dewy Deer Harbour	725
+14645	Noelani	Hyde	Consumer	Caguas	Puerto Rico	PR	1284 High Apple Highlands	725
+13163	Sydnee	Nolan	Consumer	Caguas	Puerto Rico	PR	9816 Grand Hills Knoll	725
+14553	Willa	Potter	Consumer	Caguas	Puerto Rico	PR	5301 Blue Street	725
+14287	Alma	Delgado	Consumer	Caguas	Puerto Rico	PR	7274 Middle Wynd	725
+13179	Ila	Knight	Consumer	Caguas	Puerto Rico	PR	2668 Velvet Row 	725
+13035	Belle	Booker	Consumer	Caguas	Puerto Rico	PR	567 Fallen Pines 	725
+14322	Alyssa	Contreras	Consumer	Caguas	Puerto Rico	PR	9870 Little Hickory Loop	725
+13196	Lani	Nash	Consumer	Caguas	Puerto Rico	PR	5763 Green Crossing 	725
+14604	Demetria	Jarvis	Consumer	Caguas	Puerto Rico	PR	4854 Tawny Cove	725
+12961	Joan	Nixon	Consumer	Caguas	Puerto Rico	PR	8297 Golden Green 	725
+14676	Gay	Harper	Consumer	Caguas	Puerto Rico	PR	7293 Lazy Hill	725
+14087	Audrey	Acosta	Consumer	Caguas	Puerto Rico	PR	8967 Sleepy Lane	725
+13194	Riley	Jones	Consumer	Caguas	Puerto Rico	PR	6370 Emerald Row 	725
+14513	Imani	Kelly	Consumer	Caguas	Puerto Rico	PR	3065 Foggy Horse Port	725
+13461	Mechelle	Parker	Consumer	Caguas	Puerto Rico	PR	1393 Umber Sky Estates	725
+14510	Imani	Castaneda	Consumer	Caguas	Puerto Rico	PR	5493 Burning Horse Heath	725
+13190	Whitney	Henderson	Consumer	Caguas	Puerto Rico	PR	529 Blue Grove Rise	725
+14508	Roanna	Martin	Consumer	Caguas	Puerto Rico	PR	4462 Little Lagoon Route	725
+14472	Vivian	Hays	Consumer	Caguas	Puerto Rico	PR	9854 Jagged Impasse	725
+14562	Xantha	Brock	Consumer	Caguas	Puerto Rico	PR	5336 Sleepy Sky Common	725
+13206	Zia	Davis	Consumer	Caguas	Puerto Rico	PR	3836 Blue Brook Stead	725
+13080	Mara	Duffy	Consumer	Caguas	Puerto Rico	PR	4896 Honey Wood 	725
+14633	Sloane	Long	Consumer	Caguas	Puerto Rico	PR	4592 Grand Timber Ramp	725
+14097	Winifred	Alexander	Consumer	Caguas	Puerto Rico	PR	146 Middle Terrace	725
+13024	Giselle	Farrell	Consumer	Caguas	Puerto Rico	PR	3710 Little Nook 	725
+778	John	Buckley	Consumer	Caguas	Puerto Rico	PR	9598 Cinder Close	725
+7146	Nancy	Curry	Consumer	Caguas	Puerto Rico	PR	6998 Old Treasure Crossing	725
+6365	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	100 Jagged Cloud Pathway	725
+8422	Wayne	Crawford	Consumer	Caguas	Puerto Rico	PR	8110 Old Place	725
+8524	Ruth	Farrell	Consumer	Caguas	Puerto Rico	PR	1453 Lazy Cider Hill	725
+3784	Mary	Sharp	Consumer	Caguas	Puerto Rico	PR	9221 Cotton Butterfly Terrace	725
+10519	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	4110 Quaking Abbey	725
+7132	David	Guerra	Consumer	Caguas	Puerto Rico	PR	6574 Shady Horse Wood	725
+3709	Mary	Padilla	Consumer	Caguas	Puerto Rico	PR	4555 Amber Apple Cape	725
+7518	Mary	Padilla	Consumer	Oak Lawn	EE. UU.	PR	9725 Cotton Forest	60453
+1738	Nicholas	Murray	Consumer	Detroit	EE. UU.	MI	1915 Thunder Hickory Freeway	48213
+1622	Mary	Smith	Consumer	Alhambra	EE. UU.	PR	1098 Fallen By-pass	91801
+1325	Gregory	Nelson	Consumer	New Haven	EE. UU.	PR	8271 Foggy Horse Inlet	6511
+5505	Joseph	Matthews	Consumer	North Tonawanda	EE. UU.	PR	3046 Broad Sky Dale	14120
+4210	Matthew	Roach	Consumer	Phoenix	EE. UU.	PR	1200 Silent Bend	85029
+11229	Diane	Smith	Consumer	Kenner	EE. UU.	PR	8768 Shady Arbor	70065
+9385	Andrew	Whitehead	Consumer	Washington	EE. UU.	PR	3361 Little Ledge	15301
+900	George	Smith	Consumer	Holland	EE. UU.	PR	2088 Emerald Downs	49423
+6217	Roger	Black	Consumer	Morrisville	EE. UU.	PR	5263 Middle Road	19067
+9466	Mary	Smith	Consumer	Memphis	EE. UU.	TN	7111 Cotton Blossom Estates	38128
+4596	Mary	Burns	Consumer	Federal Way	EE. UU.	PR	9419 Cinder Hickory Towers	98023
+5206	Mary	Palmer	Consumer	San Diego	EE. UU.	CA	4212 Cozy Corners	92113
+2823	Danielle	Smith	Consumer	Chicago	EE. UU.	IL	3614 Misty Mall 	60626
+10408	Sandra	Smith	Consumer	Los Angeles	EE. UU.	CA	8706 Harvest Green	90027
+11011	Mary	Mullins	Consumer	Bronx	EE. UU.	NY	3193 Gentle Circuit	10457
+40	Mary	Smith	Consumer	Long Beach	EE. UU.	PR	7358 Rocky Villas	90805
+11636	Patrick	Browning	Consumer	Chicago	EE. UU.	IL	112 Green Fawn Estates	60637
+9120	Terry	Trujillo	Home Office	Caguas	Puerto Rico	PR	5763 Green Crossing	725
+12221	Betty	Sanchez	Home Office	Caguas	Puerto Rico	PR	5913 Easy Quail Wynd	725
+9415	Mary	Joyce	Home Office	Caguas	Puerto Rico	PR	7910 Cotton Branch Highway	725
+10018	Gregory	Rodriguez	Home Office	Caguas	Puerto Rico	PR 	1632 Green Fawn Corners	725
+54	Mary	Olson	Home Office	Caguas	Puerto Rico	PR 	7333 Cinder Way	725
+542	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	2991 Silent Deer Landing	725
+724	Lawrence	Mclaughlin	Home Office	Caguas	Puerto Rico	PR	7291 Shady Nectar Cape	725
+8897	Stephen	Blackburn	Home Office	Caguas	Puerto Rico	PR	9825 Colonial Freeway	725
+7112	Mark	Harris	Home Office	Caguas	Puerto Rico	PR	2534 Easy Carrefour	725
+10018	Gregory	Rodriguez	Home Office	Caguas	Puerto Rico	PR 	1632 Green Fawn Corners	725
+1086	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	1914 Iron Berry Edge	725
+7112	Mark	Harris	Home Office	Caguas	Puerto Rico	PR	2534 Easy Carrefour	725
+2916	Cynthia	Nelson	Home Office	Caguas	Puerto Rico	PR	3200 Amber Pine Vale	725
+11329	Hannah	Smith	Home Office	Caguas	Puerto Rico	PR	5086 Emerald Fox Farms	725
+7112	Mark	Harris	Home Office	Caguas	Puerto Rico	PR	2534 Easy Carrefour	725
+2439	Mary	Smith	Home Office	Caguas	Puerto Rico	MD	7173 Fallen Vista	725
+6416	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	2915 Quaking Pathway	725
+6310	Jerry	Deleon	Home Office	Caguas	Puerto Rico	CA	772 Rustic Lagoon Crossing	725
+9029	Mary	Bryan	Home Office	Caguas	Puerto Rico	PR	285 Crystal Circuit	725
+295	Julie	Tanner	Home Office	Caguas	Puerto Rico	CA	8172 Gentle Elk Beach	725
+9011	Mary	Smith	Home Office	Caguas	Puerto Rico	 PR	5959 Harvest Forest Boulevard	725
+6416	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	2915 Quaking Pathway	725
+3570	Mary	Nelson	Home Office	Caguas	Puerto Rico	PR 	3909 Hidden Treasure Beach	725
+1577	Mary	Smith	Home Office	Caguas	Puerto Rico	NY	5274 Hidden Mall 	725
+1086	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	1914 Iron Berry Edge	725
+1568	Mary	Larson	Home Office	Caguas	Puerto Rico	OH	9494 Bright Stead	725
+3570	Mary	Nelson	Home Office	Caguas	Puerto Rico	PR 	3909 Hidden Treasure Beach	725
+9029	Mary	Bryan	Home Office	Caguas	Puerto Rico	PR	285 Crystal Circuit	725
+9047	Jordan	Medina	Home Office	Caguas	Puerto Rico	NY	5943 Dewy Autoroute	725
+724	Lawrence	Mclaughlin	Home Office	Caguas	Puerto Rico	PR	7291 Shady Nectar Cape	725
+9120	Terry	Trujillo	Home Office	Caguas	Puerto Rico	PR	5763 Green Crossing	725
+7603	Kevin	Smith	Home Office	Caguas	Puerto Rico	CA	4103 Rocky View Harbour	725
+1566	Mary	Simon	Consumer	Caguas	Puerto Rico	PR	7595 Cotton Log Row	725
+2918	Mary	Myers	Consumer	Caguas	Puerto Rico	PR 	2519 Cinder Orchard	725
+1491	Joyce	Smith	Consumer	Caguas	Puerto Rico	ID	164 Stony Field	725
+14915	Octavia	French	Consumer	Caguas	Puerto Rico	TX	9126 Wishing Expressway	725
+9619	Mary	Smith	Consumer	Caguas	Puerto Rico	CA	190 Heather View	725
+1566	Mary	Simon	Consumer	Caguas	Puerto Rico	PR	7595 Cotton Log Row	725
+778	John	Buckley	Consumer	Caguas	Puerto Rico	PR	9598 Cinder Close	725
+2363	Mary	Frazier	Consumer	Caguas	Puerto Rico	PR	5700 Little Circle	725
+5898	Emily	Jacobs	Consumer	Caguas	Puerto Rico	TX	3980 High Line	725
+1948	Peter	Smith	Consumer	Caguas	Puerto Rico	CA	5953 Broad Close	725
+1820	Mary	Hill	Consumer	Caguas	Puerto Rico	CA	8370 Golden Goose Place	725
+14770	Kelsie	Tate	Consumer	Caguas	Puerto Rico	AZ	4369 Bright Log Estates	725
+1962	Marie	Smith	Consumer	Caguas	Puerto Rico	PR	1794 High Diversion	725
+7175	Judy	Webb	Consumer	Caguas	Puerto Rico	PR 	2861 Velvet Pointe	725
+1222	Michael	Garcia	Consumer	Caguas	Puerto Rico	PR	9026 Little Avenue	725
+487	Kenneth	Brown	Consumer	Caguas	Puerto Rico	PR	6183 Little Passage	725
+2217	Mary	Martinez	Consumer	Caguas	Puerto Rico	NC	6232 Red Rise Rise	725
+2918	Mary	Myers	Consumer	Caguas	Puerto Rico	PR 	2519 Cinder Orchard	725
+14824	Jaime	Todd	Consumer	Caguas	Puerto Rico	CA	1395 Cozy River Carrefour	725
+778	John	Buckley	Consumer	Caguas	Puerto Rico	PR	9598 Cinder Close	725
+2363	Mary	Frazier	Consumer	Caguas	Puerto Rico	PR	5700 Little Circle	725
+2078	Roger	Morales	Consumer	San Juan	Puerto Rico	PR	1655 Sleepy Pine Common	921
+10497	Justin	Pena	Consumer	Caguas	Puerto Rico	IL	7869 Round Cider Square	725
+4695	Hannah	Guerra	Consumer	Caguas	Puerto Rico	IN	911 Rustic Round	725
+487	Kenneth	Brown	Consumer	Caguas	Puerto Rico	PR	6183 Little Passage	725
+9857	Lawrence	Deleon	Consumer	Caguas	Puerto Rico	PR	4780 Cinder Treasure Highway	725
+2168	Mary	Reynolds	Consumer	Caguas	Puerto Rico	CA	4854 Tawny Cove	725
+487	Kenneth	Brown	Consumer	Caguas	Puerto Rico	PR	6183 Little Passage	725
+4078	Mary	Gallegos	Consumer	Caguas	Puerto Rico	PR	4393 Pleasant Pioneer Avenue	725
+11887	Christopher	Smith	Consumer	Caguas	Puerto Rico	NY	5131 Hazy Dale Parade	725
+6588	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	1116 Silent Crest	725
+7167	Harold	Medina	Consumer	Caguas	Puerto Rico	PR 	9539 Velvet Trace	725
+1459	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	4485 Noble Fawn Highway	725
+548	Ryan	Horton	Consumer	Caguas	Puerto Rico	PR 	9022 Foggy Dell	725
+5224	Jane	Green	Consumer	Caguas	Puerto Rico	PR 	3796 Rustic Autoroute	725
+6588	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	1116 Silent Crest	725
+2686	Mary	Coffey	Consumer	Caguas	Puerto Rico	PR 	8497 Emerald Grove Pines	725
+468	Mary	Stone	Consumer	Caguas	Puerto Rico	PR 	4791 Harvest Quail Limits	725
+8456	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	9198 Rocky Run	725
+1260	Kelly	Calderon	Consumer	Caguas	Puerto Rico	PR 	6567 High Lagoon Heath	725
+3050	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	7885 Misty Knoll	725
+10308	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	1612 Golden Willow Crest	725
+6428	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	3567 Heather Knoll	725
+387	Mary	Levy	Consumer	Caguas	Puerto Rico	PR 	9460 Hidden Landing	725
+2270	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	9297 Burning Extension	725
+482	Megan	Moreno	Consumer	Caguas	Puerto Rico	PR	1591 Foggy Meadow	725
+1956	Mary	Clay	Consumer	Caguas	Puerto Rico	PR	555 Colonial Butterfly Highway	725
+7466	Mary	Warren	Consumer	Caguas	Puerto Rico	PR	139 Little Bear Chase	725
+8224	Edward	Chang	Consumer	Caguas	Puerto Rico	PR	1285 Noble Pointe	725
+6365	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	100 Jagged Cloud Pathway	725
+3490	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	1132 Harvest Front	725
+1596	John	Hammond	Consumer	Caguas	Puerto Rico	PR	7094 Misty Wynd	725
+9857	Lawrence	Deleon	Consumer	Caguas	Puerto Rico	PR	4780 Cinder Treasure Highway	725
+3969	Carl	Smith	Consumer	Vega Baja	Puerto Rico	PR	7774 Dewy Line	693
+9342	Teresa	Grant	Consumer	Caguas	Puerto Rico	PR	3684 Old River Crossing	725
+2028	Cynthia	Smith	Consumer	Caguas	Puerto Rico	PR	2762 Umber Cloud Glen	725
+3940	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	7258 Burning Dale Mountain	725
+8293	Nathan	Mahoney	Consumer	Caguas	Puerto Rico	PR	3593 Blue Brook Acres	725
+9962	Diana	Smith	Consumer	Caguas	Puerto Rico	PR	1475 Red Creek Stead	725
+8098	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	7761 Silent Hickory Drive	725
+8348	Mary	Maddox	Consumer	Caguas	Puerto Rico	PR	4703 Old Route	725
+653	Jason	Haas	Consumer	Caguas	Puerto Rico	PR	9420 Velvet Lagoon Trail	725
+8645	Andrew	Johnston	Consumer	Caguas	Puerto Rico	PR	2337 Indian Inlet	725
+1275	Amanda	Smith	Consumer	Caguas	Puerto Rico	PR	7190 Silver Horse Glade	725
+11189	Mary	Hammond	Consumer	Caguas	Puerto Rico	PR	3760 Stony Promenade	725
+5988	Melissa	Miller	Consumer	Caguas	Puerto Rico	PR	5434 Grand Common	725
+8098	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	7761 Silent Hickory Drive	725
+9726	Steven	Smith	Consumer	Caguas	Puerto Rico	PR	4097 Middle Spring Centre	725
+5113	Judith	Osborne	Consumer	Caguas	Puerto Rico	PR	8924 Easy Treasure Nook	725
+9726	Steven	Smith	Consumer	Caguas	Puerto Rico	PR	4097 Middle Spring Centre	725
+482	Megan	Moreno	Consumer	Caguas	Puerto Rico	PR	1591 Foggy Meadow	725
+8645	Andrew	Johnston	Consumer	Caguas	Puerto Rico	PR	2337 Indian Inlet	725
+7202	Beverly	Smith	Consumer	Caguas	Puerto Rico	PR	3506 Heather Berry Round	725
+1173	Mary	Silva	Consumer	Caguas	Puerto Rico	PR	7800 Hazy Lake Acres	725
+1275	Amanda	Smith	Consumer	Caguas	Puerto Rico	PR	7190 Silver Horse Glade	725
+9726	Steven	Smith	Consumer	Caguas	Puerto Rico	PR	4097 Middle Spring Centre	725
+9726	Steven	Smith	Consumer	Caguas	Puerto Rico	PR	4097 Middle Spring Centre	725
+13597	Sara	Mejia	Consumer	Caguas	Puerto Rico	PR	4520 Quiet Grounds	725
+1566	Mary	Simon	Consumer	Caguas	Puerto Rico	PR	7595 Cotton Log Row	725
+4047	Marilyn	Potter	Consumer	Caguas	Puerto Rico	PR	1155 Cotton Inlet	725
+6594	Rebecca	Austin	Consumer	Caguas	Puerto Rico	PR	896 Thunder Knoll	725
+3940	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	7258 Burning Dale Mountain	725
+1186	Mary	Soto	Consumer	Caguas	Puerto Rico	PR	472 Cinder Sky Farm	725
+9726	Steven	Smith	Consumer	Caguas	Puerto Rico	PR	4097 Middle Spring Centre	725
+4279	Jack	Meyer	Consumer	Caguas	Puerto Rico	CA	6080 Old Bay	725
+4151	Mary	Smith	Consumer	Caguas	Puerto Rico	CA	4251 Sleepy View Alley	725
+14848	Karina	Harper	Consumer	Caguas	Puerto Rico	DC	432 Dusty Glen	725
+4697	Kathryn	Singh	Consumer	Caguas	Puerto Rico	FL	6774 Noble Branch Knoll	725
+3940	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	7258 Burning Dale Mountain	725
+5887	Mary	Peters	Consumer	Caguas	Puerto Rico	CA	9494 Bright Stead	725
+12019	Mary	Walters	Consumer	Los Angeles	EE. UU.	CA	5571 Rocky Knoll	90037
+10549	Mary	Atkinson	Consumer	Baltimore	EE. UU.	MD	8773 Colonial Shadow Maze	21206
+4909	Mary	Smith	Consumer	Phoenix	EE. UU.	TX	1606 Rocky Shadow Ledge	85035
+5854	Mary	Smith	Consumer	Fullerton	EE. UU.	MA	5803 Umber Meadow	92833
+3066	Mary	Smith	Consumer	Baltimore	EE. UU.	MD	1221 High Crest	21218
+11431	Willie	Sanders	Consumer	Sacramento	EE. UU.	OH	5098 Lazy Pathway	95823
+9906	Richard	Smith	Consumer	Chicago	EE. UU.	IL	3957 Emerald Spring Nook	60614
+2048	Mary	Wolf	Consumer	Greensboro	EE. UU.	CA	3977 Colonial Towers	27410
+3071	Mary	Meadows	Consumer	San Jose	EE. UU.	CA	5835 Harvest Vista	95127
+11065	Aaron	Smith	Consumer	New York	EE. UU.	NY	5493 Burning Horse Heath	10031
+394	David	Smith	Consumer	Lakewood	EE. UU.	CA	1449 Red Cove	44107
+9906	Richard	Smith	Consumer	Chicago	EE. UU.	IL	3957 Emerald Spring Nook	60614
+5707	Kathy	Sampson	Consumer	Hamilton	EE. UU.	TN	2056 Misty Grove Rise	45011
+10549	Mary	Atkinson	Consumer	Baltimore	EE. UU.	MD	8773 Colonial Shadow Maze	21206
+2682	Cynthia	Miller	Consumer	Roseburg	EE. UU.	OH	5430 Burning Rise Route	97470
+467	James	Smith	Consumer	Modesto	EE. UU.	TX	6324 Golden Line	95350
+10577	Jennifer	Fuentes	Consumer	New York	EE. UU.	NY	5659 Shady Cloud Port	10003
+10577	Jennifer	Fuentes	Consumer	New York	EE. UU.	NY	5659 Shady Cloud Port	10003
+3471	Mary	Franco	Consumer	New Bedford	EE. UU.	NJ	1214 Dusty Crescent	2740
+3535	Betty	Rodgers	Consumer	Encinitas	EE. UU.	WV	1795 Fallen Corners	92024
+11715	Mary	Smith	Consumer	San Jose	EE. UU.	NY	9761 Quaking Acres	95116
+9814	Daniel	Smith	Consumer	Rome	EE. UU.	IL	6115 Clear River Key	13440
+4848	Jennifer	Morgan	Consumer	Watsonville	EE. UU.	GA	1985 Sunny Manor	95076
+569	Mary	Frye	Consumer	Meridian	EE. UU.	CA	4834 Easy Terrace	83642
+5749	Mary	Smith	Consumer	Houston	EE. UU.	TX	6058 Fallen Walk	77084
+4460	Mary	Smith	Consumer	Los Angeles	EE. UU.	CA	3200 Amber Bend	90027
+6506	Anna	Bailey	Consumer	Brooklyn	EE. UU.	NY	1773 Amber Walk	11229
+6050	Rebecca	Arnold	Consumer	Endicott	EE. UU.	NJ	8775 Wishing Pony Byway	13760
+3246	Lori	Burns	Consumer	San Jose	EE. UU.	TX	4845 Thunder Embers Hollow	95148
+2364	Thomas	Whitney	Consumer	Katy	EE. UU.	CA	906 Green Treasure Limits	77450
+12216	Ann	Deleon	Consumer	Visalia	EE. UU.	OR	7191 Jagged Avenue	93277
+4460	Mary	Smith	Consumer	Los Angeles	EE. UU.	CA	3200 Amber Bend	90027
+11388	Mary	Rangel	Consumer	Lancaster	EE. UU.	MN	2395 Misty Carrefour	93535
+7521	Mary	Ortega	Consumer	York	EE. UU.	PA	4196 Noble Beacon Mews	17402
+1628	Benjamin	Smith	Consumer	Phoenix	EE. UU.	PR 	516 Dewy Bluff Swale	85022
+7222	Jesse	Stein	Consumer	Lompoc	EE. UU.	PR 	2225 Crystal Beach	93436
+5929	Mary	Shepherd	Consumer	Miami	EE. UU.	PR 	18 Golden Point	33186
+6123	Mary	Anderson	Consumer	York	EE. UU.	PA	9540 Little Vista	17404
+587	Patrick	Smith	Consumer	Ogden	EE. UU.	PR 	7814 Colonial Autumn Line	84404
+1240	Mary	Warner	Consumer	Raleigh	EE. UU.	PR 	2538 Quaking Hills Ramp	27610
+8806	Amber	Diaz	Consumer	Virginia Beach	EE. UU.	PR 	6174 Bright Vista	23455
+341	Mary	Smith	Consumer	Carlsbad	EE. UU.	PR 	141 Dewy Plaza	92009
+3064	Sandra	Smith	Consumer	Hacienda Heights	EE. UU.	PR 	3922 Grand Crescent	91745
+10614	James	Smith	Consumer	Union City	EE. UU.	PR 	1870 Crystal Blossom Towers	7087
+10563	Mary	Smith	Consumer	Hollywood	EE. UU.	PR	8093 Old Autumn Green	33023
+11002	Alexander	Smith	Consumer	Bolingbrook	EE. UU.	PR	7658 Hazy Mountain Plaza	60440
+11486	Mary	Smith	Consumer	West Lafayette	EE. UU.	PR	8153 Golden Timber Parkway	47906
+1759	Mary	Barnett	Consumer	Astoria	EE. UU.	PR	1040 Quaking Mountain Heath	11103
+10659	Barbara	Beck	Consumer	Newark	EE. UU.	PR	4770 Hidden Heath	7105
+8899	Cynthia	Brown	Consumer	San Jose	EE. UU.	PR	4110 Hidden Private	95127
+3315	Andrew	Butler	Consumer	Woodbridge	EE. UU.	PR	8212 Broad Circle	22192
+10051	Kathryn	Smith	Consumer	Weslaco	EE. UU.	PR	9188 Red Highway	78596
+6402	Mary	Frazier	Consumer	Jamaica	EE. UU.	PR	4599 Grand Route	11432
+8707	Lisa	Smith	Home Office	Caguas	Puerto Rico	PR	7208 Bright Landing	725
+1025	Megan	Todd	Home Office	Caguas	Puerto Rico	PR	1393 Umber Sky Estates	725
+8831	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	8165 Red Lane	725
+10679	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	331 Grand Orchard	725
+5007	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	2264 Thunder Abbey	725
+5007	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	2264 Thunder Abbey	725
+9854	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	9082 Merry Lookout	725
+376	Grace	Sanchez	Home Office	Caguas	Puerto Rico	PR	6468 Fallen Close	725
+5417	Dennis	Meyer	Home Office	Caguas	Puerto Rico	PR	7342 Hidden Walk	725
+10759	Douglas	Smith	Home Office	Caguas	Puerto Rico	PR	577 Rustic Nectar Row	725
+8541	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	5700 Little Circle	725
+10679	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	331 Grand Orchard	725
+3752	Mary	Vega	Home Office	Caguas	Puerto Rico	PR	7840 Umber Sky Villas	725
+4673	Wayne	Hodges	Home Office	Caguas	Puerto Rico	PR	7509 Iron Concession	725
+5367	Mary	Mccormick	Home Office	Caguas	Puerto Rico	PR	2199 Silver Autumn Key	725
+5367	Mary	Mccormick	Home Office	Caguas	Puerto Rico	PR	2199 Silver Autumn Key	725
+10485	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	9470 Shady View Bend	725
+9272	Ronald	Blackwell	Home Office	Caguas	Puerto Rico	PR	9366 Silent Nectar Highway	725
+647	Mary	Rios	Consumer	Caguas	Puerto Rico	PR	4167 Stony Extension	725
+6398	Tammy	Smith	Consumer	Caguas	Puerto Rico	PR	7370 Sleepy Way	725
+4209	Mary	Lara	Consumer	Caguas	Puerto Rico	PR	1613 Broad Beach	725
+8917	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	4992 Jagged Forest Subdivision	725
+7784	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	3216 Red Glade	725
+1425	Christina	Harvey	Consumer	Caguas	Puerto Rico	PR	3481 Crystal Campus	725
+2737	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	5424 Rustic Anchor Boulevard	725
+6428	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	3567 Heather Knoll	725
+6543	Alexander	Smith	Consumer	Caguas	Puerto Rico	PR	7958 Thunder Apple Street	725
+3990	Sandra	Smith	Consumer	Guayama	Puerto Rico	PR	6496 Harvest Highlands	784
+8524	Ruth	Farrell	Consumer	Caguas	Puerto Rico	PR	1453 Lazy Cider Hill	725
+9204	Mary	Harris	Consumer	Caguas	Puerto Rico	PR	8713 Quaking Abbey	725
+11761	Lauren	Coleman	Consumer	Caguas	Puerto Rico	PR	1285 Noble Pointe	725
+9554	Mary	Hayes	Consumer	Caguas	Puerto Rico	PR	6314 Honey Canyon	725
+5118	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	1388 Blue Turnabout	725
+5506	Gregory	Smith	Consumer	Caguas	Puerto Rico	PR	1122 Old Fox Lookout	725
+1423	Mary	Day	Consumer	Caguas	Puerto Rico	PR	257 Iron Elk Maze	725
+138	Mary	Dawson	Consumer	Caguas	Puerto Rico	PR	9544 Noble Spring Route	725
+6360	Mary	Phillips	Consumer	Caguas	Puerto Rico	PR	7094 Misty Wynd	725
+2053	Ronald	Smith	Consumer	Caguas	Puerto Rico	PR	1025 Colonial Plaza	725
+10344	Mary	Smith	Consumer	Juana Diaz	Puerto Rico	CA	2839 Grand Timber Canyon	795
+6398	Tammy	Smith	Consumer	Caguas	Puerto Rico	PR	7370 Sleepy Way	725
+3375	Mary	Sanchez	Consumer	Caguas	Puerto Rico	CA	6174 Wishing Front	725
+1339	Melissa	Mack	Consumer	Caguas	Puerto Rico	MI	9447 Dusty Gate Centre	725
+6543	Alexander	Smith	Consumer	Caguas	Puerto Rico	PR	7958 Thunder Apple Street	725
+3990	Sandra	Smith	Consumer	Guayama	Puerto Rico	PR	6496 Harvest Highlands	784
+7247	Mary	Smith	Consumer	Caguas	Puerto Rico	HI	6401 Shady Embers Farms	725
+1273	Maria	Evans	Consumer	Caguas	Puerto Rico	NY	595 Indian Path	725
+6277	Eugene	Smith	Consumer	Caguas	Puerto Rico	NY	1820 Noble Elk Harbour	725
+7701	James	Lawson	Consumer	Caguas	Puerto Rico	PR 	1577 Green Vista	725
+4126	John	Stokes	Consumer	Caguas	Puerto Rico	PR	9920 Little Lane	725
+9528	Mary	Flores	Consumer	Caguas	Puerto Rico	MN	3089 Gentle Horse Chase	725
+1853	Mary	Austin	Consumer	Caguas	Puerto Rico	PR 	4090 Colonial End	725
+11149	Roy	Smith	Consumer	Caguas	Puerto Rico	PR 	4601 Amber Grove Hollow	725
+5828	Katherine	Oconnell	Consumer	Caguas	Puerto Rico	PR 	2127 Middle Goose Mews	725
+6887	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	8840 Harvest Towers	725
+4781	Janet	Smith	Consumer	Caguas	Puerto Rico	PR 	8617 Cinder Mountain Forest	725
+10668	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	5087 Crystal Hills Manor	725
+5421	Mary	Carlson	Consumer	Caguas	Puerto Rico	PR 	1548 Lazy Place	725
+10200	Nicole	Smith	Consumer	Caguas	Puerto Rico	PR 	9009 Merry Nectar Heights	725
+11254	Sharon	Smith	Consumer	Caguas	Puerto Rico	PR 	4316 Misty Way	725
+11106	Mary	Navarro	Consumer	Caguas	Puerto Rico	PR	6324 Lazy Lane	725
+8456	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	9198 Rocky Run	725
+6149	Matthew	Bush	Consumer	Caguas	Puerto Rico	PR	5736 Heather Byway	725
+1473	Anthony	Young	Consumer	Caguas	Puerto Rico	PR	7334 Umber Expressway	725
+7454	Andrew	Kim	Corporate	West Covina	EE. UU.	PR	7094 Round Carrefour	91790
+5138	William	Rivera	Corporate	Ventura	EE. UU.	PR	3367 Easy Pines	93003
+8696	Mary	Pope	Corporate	Washington	EE. UU.	PR	4776 Crystal River Stead	20009
+2329	Mary	Smith	Corporate	Valrico	EE. UU.	CA	7312 Umber Prairie Wynd	33594
+12431	Mary	Rios	Corporate	Kaneohe	EE. UU.	MI	1221 Cinder Pines	96744
+10860	Mary	Johnson	Corporate	Ventura	EE. UU.	CA	8824 Noble View Valley	93003
+12094	Mary	Smith	Corporate	Brooklyn	EE. UU.	NY	2720 Stony Field	11218
+5088	Mary	Smith	Corporate	Oceanside	EE. UU.	IL	698 Colonial Way	92057
+2200	Evelyn	Wilson	Corporate	Fort Worth	EE. UU.	TX	7409 Cotton Manor	76116
+10966	Martha	Pierce	Corporate	Plymouth	EE. UU.	MI	6797 Quiet Mountain Rise	2360
+3997	Margaret	Walker	Corporate	Brooklyn	EE. UU.	NY	5731 Cinder Horse Court	11218
+8746	Charles	Stout	Corporate	Cleveland	EE. UU.	IN	72 Noble Path	44120
+3687	Mary	Morrow	Corporate	Philadelphia	EE. UU.	PA	923 Amber Grounds	19145
+9162	Christina	Carter	Corporate	Lodi	EE. UU.	CA	3901 Iron Parade	95240
+8993	Mary	Smith	Corporate	Bakersfield	EE. UU.	IN	4915 Lazy Pine Bay	93308
+5875	Mary	Rodgers	Corporate	Philadelphia	EE. UU.	PA	654 Gentle Acres	19143
+2502	Mary	Smith	Corporate	Long Beach	EE. UU.	PR	7581 Cinder Link	90813
+9563	Pamela	Murphy	Corporate	San Jose	EE. UU.	CA	6001 Iron Diversion	95122
+7259	Jerry	Ingram	Corporate	Murfreesboro	EE. UU.	CA 	9198 Blue Swale	37130
+3131	Mary	Brown	Corporate	Carlsbad	EE. UU.	PR	3358 Middle Ridge	92009
+4140	Brandon	Smith	Corporate	Hamilton	EE. UU.	NY	9785 Silver Hickory Walk	45011
+4539	Jacqueline	James	Corporate	Houston	EE. UU.	TX	9391 Little Leaf Ramp	77083
+6071	Mary	Wu	Corporate	New York	EE. UU.	NY	3810 Honey Swale	10031
+8730	Mary	Smith	Corporate	Hayward	EE. UU.	PR	5166 Middle Circuit	94541
+9634	Mary	Weaver	Corporate	Bridgeton	EE. UU.	CA	2269 High Limits	8302
+8010	Kathy	Smith	Corporate	Martinsburg	EE. UU.	PR	6901 Lazy Plaza	25401
+3484	Rebecca	Hunter	Corporate	Bay Shore	EE. UU.	NY	67 Cotton Mountain Terrace	11706
+7307	Brandon	Foster	Corporate	Palatine	EE. UU.	IL	4291 Sunny Fox Mews	60067
+1975	Mary	Smith	Corporate	Smyrna	EE. UU.	PR	7790 Green Berry Gate	30080
+629	Matthew	Huffman	Corporate	Van Nuys	EE. UU.	MA	9922 Misty Oak Inlet	91406
+11753	Richard	Reid	Corporate	Opa Locka	EE. UU.	PR	9128 Little Cloud Bay	33055
+5375	Jeremy	Holmes	Corporate	Los Angeles	EE. UU.	CA	1819 Noble Ramp	90046
+1695	Amanda	Marquez	Corporate	Saint Paul	EE. UU.	MN	9539 Velvet Trace	55106
+9884	Maria	Dorsey	Corporate	Edison	EE. UU.	PR	125 Colonial Butterfly Stead	8817
+8498	Joseph	Pennington	Corporate	Baytown	EE. UU.	TX	9084 Middle Embers Passage	77520
+5375	Jeremy	Holmes	Corporate	Los Angeles	EE. UU.	CA	1819 Noble Ramp	90046
+7534	Mary	Smith	Corporate	Sylmar	EE. UU.	PR	1994 Lost Berry Promenade	91342
+7307	Brandon	Foster	Corporate	Palatine	EE. UU.	IL	4291 Sunny Fox Mews	60067
+123	Mary	Mann	Corporate	Bend	EE. UU.	PR	7676 Colonial Towers	97701
+8498	Joseph	Pennington	Corporate	Baytown	EE. UU.	TX	9084 Middle Embers Passage	77520
+9162	Christina	Carter	Corporate	Lodi	EE. UU.	CA	3901 Iron Parade	95240
+8925	Mary	Erickson	Corporate	Opa Locka	EE. UU.	PA	2422 High River Corners	33055
+5981	Ronald	Williamson	Corporate	Burnsville	EE. UU.	PR	398 Pleasant Mountain	55337
+7347	Carolyn	Gallegos	Corporate	Huntington Station	EE. UU.	NY	2070 Indian Leaf Edge	11746
+8707	Lisa	Smith	Home Office	Caguas	Puerto Rico	PR	7208 Bright Landing	725
+12069	Brittany	Gardner	Home Office	Caguas	Puerto Rico	PR	4232 Wishing Creek Campus	725
+11339	Mary	King	Home Office	Caguas	Puerto Rico	IL	4210 Dewy Round	725
+10166	Aaron	Smith	Home Office	Caguas	Puerto Rico	PR	8570 Hazy Forest End	725
+3091	Carolyn	Rodriguez	Home Office	Caguas	Puerto Rico	MI	9885 Hazy Forest Path	725
+5007	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	2264 Thunder Abbey	725
+1070	Shawn	Huffman	Home Office	Caguas	Puerto Rico	PR	3332 Heather Road	725
+6871	Gregory	Bowman	Home Office	Caguas	Puerto Rico	PA	4114 Lost Blossom Farms	725
+2339	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	403 Tawny Hills By-pass	725
+5007	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	2264 Thunder Abbey	725
+4232	Mary	Garza	Home Office	Caguas	Puerto Rico	DE	5346 Clear Hills Way	725
+8986	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	4551 Jagged Bay	725
+6746	Anthony	Sanchez	Home Office	Caguas	Puerto Rico	PR 	6036 Noble Blossom Wynd	725
+5007	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	2264 Thunder Abbey	725
+8524	Ruth	Farrell	Consumer	Caguas	Puerto Rico	PR	1453 Lazy Cider Hill	725
+4126	John	Stokes	Consumer	Caguas	Puerto Rico	PR	9920 Little Lane	725
+3207	Stephen	Smith	Consumer	Caguas	Puerto Rico	PR	1812 Sunny River Wharf	725
+12310	Ralph	Nielsen	Consumer	Caguas	Puerto Rico	NY	6639 Clear Fawn Grounds	725
+1222	Michael	Garcia	Consumer	Caguas	Puerto Rico	PR	9026 Little Avenue	725
+8397	Amber	Smith	Consumer	Caguas	Puerto Rico	PR 	3440 Clear Moor	725
+6306	Donna	Browning	Consumer	Caguas	Puerto Rico	PR 	8569 Umber Fox Common	725
+8002	Margaret	Martinez	Consumer	Caguas	Puerto Rico	PR 	3412 Golden Orchard	725
+12382	Jennifer	Smith	Consumer	Caguas	Puerto Rico	PR 	3413 Silver Lake Carrefour	725
+7844	Scott	Smith	Consumer	Mayaguez	Puerto Rico	PR 	2681 Cinder By-pass	680
+12291	Jennifer	Sims	Consumer	Caguas	Puerto Rico	PR 	3289 Thunder Prairie Inlet	725
+6523	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	8094 Broad Dale	725
+4078	Mary	Gallegos	Consumer	Caguas	Puerto Rico	PR	4393 Pleasant Pioneer Avenue	725
+4867	Mary	Smith	Consumer	Caguas	Puerto Rico	NJ	6292 Velvet Wagon  Plaza	725
+5301	Mary	Ward	Consumer	Caguas	Puerto Rico	PR	8828 Red Farms	725
+4784	Mary	Williams	Consumer	Caguas	Puerto Rico	NM	6336 Thunder Dale	725
+8348	Mary	Maddox	Consumer	Caguas	Puerto Rico	PR	4703 Old Route	725
+7446	Lisa	Williams	Consumer	Caguas	Puerto Rico	FL	1974 Fallen Place	725
+11455	Mary	Weaver	Consumer	Caguas	Puerto Rico	OR	2553 Golden Dale	725
+5364	Thomas	Colon	Consumer	Caguas	Puerto Rico	NJ	2568 Bright Lookout	725
+259	Mary	Bates	Consumer	Caguas	Puerto Rico	SC	382 Rocky Pond By-pass	725
+11290	Catherine	Smith	Consumer	Caguas	Puerto Rico	CA	4692 Gentle Turnabout	725
+8517	Debra	Smith	Consumer	Humacao	Puerto Rico	TX	5138 Green Boulevard	791
+7701	James	Lawson	Consumer	Caguas	Puerto Rico	PR 	1577 Green Vista	725
+7407	Diane	Kim	Consumer	Caguas	Puerto Rico	NY	4689 Lost Spring Key	725
+5965	Richard	Parker	Consumer	Caguas	Puerto Rico	CA	1018 Colonial Nectar Subdivision	725
+8677	Cynthia	Mccoy	Consumer	Caguas	Puerto Rico	PR 	8696 Bright Dale Pointe	725
+10093	Michael	Lopez	Consumer	Caguas	Puerto Rico	OH	914 Round Pony Canyon	725
+12119	Barbara	Pham	Consumer	Caguas	Puerto Rico	PR	135 Burning Ridge	725
+8274	Mary	Mcgrath	Consumer	Caguas	Puerto Rico	TX	1905 Broad Apple Highway	725
+2291	Mary	Mcdonald	Consumer	Caguas	Puerto Rico	NY	2291 Velvet Berry Freeway	725
+11310	Kenneth	Williams	Consumer	Caguas	Puerto Rico	UT	8718 High Front	725
+155	Brittany	Juarez	Consumer	Caguas	Puerto Rico	WA	1809 Lost Pine Ledge	725
+4998	Mary	Smith	Consumer	Caguas	Puerto Rico	IL	1235 Honey Mews	725
+7720	Lisa	Ramirez	Consumer	Caguas	Puerto Rico	NY	4746 Quaking Bear Valley	725
+3099	Brittany	Copeland	Consumer	Caguas	Puerto Rico	TX	5735 Round Beacon Terrace	725
+5011	William	Berg	Consumer	Caguas	Puerto Rico	PA	2387 Silver Freeway	725
+2643	David	Smith	Consumer	Caguas	Puerto Rico	CA	6567 Red Sky Gate	725
+9501	Patricia	Smith	Consumer	Caguas	Puerto Rico	MI	9505 Broad Timber Highlands	725
+9760	Mary	Wolf	Consumer	Caguas	Puerto Rico	CA	7969 Umber Forest	725
+11793	Thomas	Riley	Consumer	Caguas	Puerto Rico	CA	1538 Sunny Lagoon Mews	725
+7273	Mary	Smith	Consumer	Bayamon	Puerto Rico	IL	3450 Round Gate Close	957
+5301	Mary	Ward	Consumer	Caguas	Puerto Rico	PR	8828 Red Farms	725
+12119	Barbara	Pham	Consumer	Caguas	Puerto Rico	PR	135 Burning Ridge	725
+3329	Joshua	Smith	Consumer	Caguas	Puerto Rico	HI	9709 Dewy Pointe	725
+9429	George	Terrell	Consumer	Caguas	Puerto Rico	OH	4429 Lost Elk Front	725
+8677	Cynthia	Mccoy	Consumer	Caguas	Puerto Rico	PR 	8696 Bright Dale Pointe	725
+437	Cynthia	Benjamin	Consumer	Caguas	Puerto Rico	NJ	2721 Dewy Panda Manor	725
+2538	Kelly	Williams	Consumer	Caguas	Puerto Rico	CA	4545 Quaking Hickory Ledge	725
+4280	Mary	Mccoy	Consumer	Arecibo	Puerto Rico	CA	6289 Rocky Way	612
+2813	Mary	Smith	Consumer	Caguas	Puerto Rico	FL	2585 Silent Autumn Landing	725
+4249	Mary	Butler	Consumer	Caguas	Puerto Rico	PR	1411 Little Log Boulevard	725
+9697	Stephen	Williams	Consumer	Vega Baja	Puerto Rico	CA	4849 Clear Blossom Turnabout	693
+6306	Donna	Browning	Consumer	Caguas	Puerto Rico	PR 	8569 Umber Fox Common	725
+27	Mary	Vincent	Consumer	Caguas	Puerto Rico	PR	1768 Sleepy Zephyr Place	725
+5274	Michael	Beard	Consumer	Caguas	Puerto Rico	MA	1811 Hazy Oak Subdivision	725
+11273	Mary	Ward	Consumer	Caguas	Puerto Rico	PR	2972 Pleasant Branch Road	725
+6306	Donna	Browning	Consumer	Caguas	Puerto Rico	PR 	8569 Umber Fox Common	725
+7141	Mary	Jackson	Corporate	Sacramento	EE. UU.	PR 	7760 Golden Limits	95822
+6172	James	Smith	Corporate	Fort Washington	EE. UU.	MD	7824 Cinder Fawn Manor	20744
+2741	Jason	Smith	Corporate	Long Beach	EE. UU.	PR 	8908 Golden Thicket	90805
+1180	Mary	Martin	Corporate	Wyandotte	EE. UU.	MD	4839 Lazy View	48192
+6875	Mary	Mcdowell	Corporate	Newark	EE. UU.	PR	8916 Quaking Creek Trail	7104
+10864	Jason	Beck	Corporate	Brooklyn	EE. UU.	NY	1491 Little Robin Way	11204
+242	Mary	Stein	Corporate	Mililani	EE. UU.	HI	5292 Heather Zephyr Forest	96789
+9002	Mary	Mullins	Corporate	New York	EE. UU.	NY	6997 Amber Common	10011
+9002	Mary	Mullins	Corporate	New York	EE. UU.	NY	6997 Amber Common	10011
+9145	Gary	Smith	Corporate	Brooklyn	EE. UU.	NY	398 Emerald Grove	11221
+7887	Mary	Keller	Corporate	Loveland	EE. UU.	CA	1039 Red Towers	45140
+2817	Rachel	Choi	Corporate	Harvey	EE. UU.	CA	654 Foggy Point	60426
+2013	Mary	Fletcher	Corporate	Saint Paul	EE. UU.	MN	4772 Indian Alley	55124
+2013	Mary	Fletcher	Corporate	Saint Paul	EE. UU.	MN	4772 Indian Alley	55124
+10759	Douglas	Smith	Home Office	Caguas	Puerto Rico	PR	577 Rustic Nectar Row	725
+10041	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	8544 Silent Treasure Thicket	725
+10041	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	8544 Silent Treasure Thicket	725
+8541	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	5700 Little Circle	725
+8707	Lisa	Smith	Home Office	Caguas	Puerto Rico	PR	7208 Bright Landing	725
+6268	Mary	Summers	Home Office	Caguas	Puerto Rico	PR 	1607 Hazy Butterfly Swale	725
+6636	Mary	Smith	Home Office	Caguas	Puerto Rico	MI	5016 Silent Diversion	725
+7468	Mary	Hebert	Home Office	Caguas	Puerto Rico	PR 	125 Easy Lake Close	725
+10588	Jessica	Newton	Home Office	Caguas	Puerto Rico	NY 	9731 Round Horse Villas	725
+376	Grace	Sanchez	Home Office	Caguas	Puerto Rico	PR	6468 Fallen Close	725
+5007	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	2264 Thunder Abbey	725
+6280	Mary	Day	Home Office	Caguas	Puerto Rico	MI	8667 Iron Arbor	725
+1989	Richard	Leach	Home Office	Caguas	Puerto Rico	PR	9420 Honey Grove Mews	725
+633	Mary	Campbell	Home Office	Caguas	Puerto Rico	IL	398 Emerald Grove	725
+146	Amber	Mercado	Home Office	Caguas	Puerto Rico	PR	14 Dusty Lake Beach	725
+10166	Aaron	Smith	Home Office	Caguas	Puerto Rico	PR	8570 Hazy Forest End	725
+7468	Mary	Hebert	Home Office	Caguas	Puerto Rico	PR 	125 Easy Lake Close	725
+8986	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	4551 Jagged Bay	725
+8986	Mary	Smith	Home Office	Caguas	Puerto Rico	PR 	4551 Jagged Bay	725
+2339	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	403 Tawny Hills By-pass	725
+9272	Ronald	Blackwell	Home Office	Caguas	Puerto Rico	PR	9366 Silent Nectar Highway	725
+9918	Alice	Smith	Consumer	Caguas	Puerto Rico	NY	5546 Gentle Point	725
+6517	Amber	Sheppard	Consumer	Caguas	Puerto Rico	PR	2963 Indian Elk Pathway	725
+468	Mary	Stone	Consumer	Caguas	Puerto Rico	PR 	4791 Harvest Quail Limits	725
+468	Mary	Stone	Consumer	Caguas	Puerto Rico	PR 	4791 Harvest Quail Limits	725
+8398	Mary	Williams	Consumer	Bayamon	Puerto Rico	CA 	3253 Colonial Embers Vista	957
+8360	Jeremy	Smith	Consumer	Caguas	Puerto Rico	PR 	2857 Honey Terrace	725
+8103	Donna	Jones	Consumer	Caguas	Puerto Rico	MO 	7851 Clear Rise Edge	725
+3125	Dylan	Walker	Consumer	Caguas	Puerto Rico	PR 	2889 Sleepy Freeway	725
+468	Mary	Stone	Consumer	Caguas	Puerto Rico	PR 	4791 Harvest Quail Limits	725
+4899	Mary	Bauer	Consumer	Caguas	Puerto Rico	CA 	6718 Stony Gate Vale	725
+10632	Mary	Williams	Consumer	Escondido	EE. UU.	CA	4906 Umber Lookout	92025
+11947	Mary	Smith	Consumer	Chicago	EE. UU.	IL	5420 Crystal Hill	60608
+9154	Anna	Gillespie	Consumer	Detroit	EE. UU.	MI	8546 Thunder Goose Inlet	48224
+9897	Marilyn	Smith	Consumer	San Jose	EE. UU.	MI 	2469 Blue Brook Crossing	95127
+11198	Samuel	Smith	Consumer	Marietta	EE. UU.	NY	8684 Golden Point	30067
+11947	Mary	Smith	Consumer	Chicago	EE. UU.	IL	5420 Crystal Hill	60608
+1753	Sandra	Smith	Consumer	Pekin	EE. UU.	IL	5995 Shady Anchor Canyon	61554
+2790	Mary	Nielsen	Consumer	Santa Ana	EE. UU.	PR	3261 Little Meadow	92705
+1753	Sandra	Smith	Consumer	Pekin	EE. UU.	IL	5995 Shady Anchor Canyon	61554
+1756	Jason	Dixon	Consumer	Dallas	EE. UU.	PR 	7494 Emerald Terrace	75227
+10042	Christopher	Hatfield	Consumer	Canyon Country	EE. UU.	NJ	5721 Rocky Pond Glade	91351
+9698	Mary	Lee	Consumer	Indianapolis	EE. UU.	TN	1191 Merry Rabbit Acres	46226
+9154	Anna	Gillespie	Consumer	Detroit	EE. UU.	MI	8546 Thunder Goose Inlet	48224
+4768	Amanda	Hays	Home Office	Caguas	Puerto Rico	PR	7213 Sleepy Cove	725
+9037	Laura	Smith	Consumer	Bellflower	EE. UU.	UT 	4922 Middle Hills Promenade	90706
+5783	Daniel	Smith	Consumer	Indianapolis	EE. UU.	PR	4746 Quaking Bear Valley	46227
+20755	Cally	Holloway	Consumer	Caguas	Puerto Rico	CA	5365 Noble Nectar Island	725
+19492	Irene	Luna	Consumer	Caguas	Puerto Rico	PR	2679 Rustic Loop	725
+19491	Gillian	Maldonado	Consumer	San Jose	EE. UU.	CA	8510 Round Bear Gate	95125
+19490	Tana	Tate	Home Office	Los Angeles	EE. UU.	CA	3200 Amber Bend	90027
+19489	Orli	Hendricks	Corporate	Caguas	Puerto Rico	FL 	8671 Iron Anchor Corners	725
+19488	Kimberly	Flowers	Consumer	Tonawanda	EE. UU.	PR 	2122 Hazy Corner	14150
+19487	Constance	Terrell	Home Office	Caguas	Puerto Rico	NY 	1879 Green Pine Bank	725
+19486	Erica	Stevens	Corporate	Miami	EE. UU.	PR	7595 Cotton Log Row	33162
+19485	Nichole	Olsen	Corporate	Caguas	Puerto Rico	NY	2051 Dusty Route	725
+19484	Oprah	Delacruz	Corporate	San Ramon	EE. UU.	CA	9139 Blue Blossom Court	94583
+19483	Germane	Short	Corporate	Caguas	Puerto Rico	PR	4058 Quiet Heights	725
+19482	Freya	Robbins	Consumer	Freeport	EE. UU.	IL	3243 Shady Corner	11520
+19481	Cassandra	Jensen	Corporate	Salinas	EE. UU.	PR	131 Sunny Treasure Green	93905
+19480	Natalie	Mcfadden	Corporate	Caguas	Puerto Rico	NC	2531 Wishing Square	725
+19479	Kimberley	Sharpe	Corporate	Peabody	EE. UU.	OH	6417 Silver Towers	1960
+19478	Sade	Lancaster	Corporate	Caguas	Puerto Rico	OR	257 Harvest Close	725
+19477	Brynne	Giles	Corporate	Canovanas	Puerto Rico	PR	7342 Hazy Beacon Park	729
+19476	Ciara	Bird	Corporate	Paramount	EE. UU.	PR	7787 Lazy Corners	90723
+19475	Bo	Griffin	Consumer	Caguas	Puerto Rico	NY	5136 Rustic Pioneer Estates	725
+19474	Kim	Simon	Consumer	Mount Prospect	EE. UU.	OH	1723 Tawny Via	60056
+19473	Kellie	Farmer	Corporate	Long Beach	EE. UU.	PR	7111 Silent Fox Gardens	90813
+19472	Alma	Conley	Corporate	Caguas	Puerto Rico	CA	3732 Old Mountain Bank	725
+19471	Yeo	Bird	Corporate	Rancho Cordova	EE. UU.	PR	6217 Rustic Lake Forest	95670
+19470	Lucy	Mcknight	Corporate	Caguas	Puerto Rico	CA 	1082 Quiet Treasure Link	725
+19469	Simone	Vance	Corporate	Billings	EE. UU.	AZ	3176 Round Gate	59102
+19468	Roary	Wheeler	Corporate	Caguas	Puerto Rico	PR 	1426 Fallen Line	725
+19467	Quail	Ashley	Consumer	Wilkes Barre	EE. UU.	HI 	9814 Emerald Prairie Limits	18702
+19466	Hannah	Velez	Corporate	Caguas	Puerto Rico	PR	8271 Tawny Elk Abbey	725
+19465	Evelyn	Kelly	Corporate	Roseville	EE. UU.	PR 	3931 Gentle Ramp	48066
+19464	Jael	Mcfarland	Consumer	Bellflower	EE. UU.	PR 	9699 Honey Rise	90706
+19463	Teagan	Romero	Consumer	Caguas	Puerto Rico	PR 	1564 Rocky Terrace	725
+19462	Joan	Wilder	Consumer	Wheaton	EE. UU.	PR 	4294 High Passage	60187
+19461	Basia	Watts	Consumer	Caguas	Puerto Rico	PR 	5918 Golden Beacon Freeway	725
+19460	Dominique	Rogers	Consumer	Detroit	EE. UU.	MI	3915 Broad Lookout	48238
+19459	Ainsley	Mathis	Consumer	Dallas	EE. UU.	PR 	7190 Silver Horse Glade	75220
+19458	Aurora	Sharp	Corporate	Caguas	Puerto Rico	PR 	830 Broad Beacon Maze	725
+19457	Libby	Bray	Corporate	Carlisle	EE. UU.	PR 	6127 Dewy Goose Downs	17013
+19456	Amy	Lindsay	Corporate	Dallas	EE. UU.	PR 	1188 Old Abbey	75228
+19455	Ivory	Parks	Consumer	Caguas	Puerto Rico	PR 	7004 Hazy Lake Townline	725
+19454	Karina	Prince	Consumer	Newark	EE. UU.	PR 	2556 Umber Autoroute	19702
+19453	Deanna	Goff	Consumer	Panorama City	EE. UU.	PR 	3722 Thunder Cape	91402
+19452	Dacey	Walters	Home Office	Caguas	Puerto Rico	PR 	2676 Velvet Common	725
+19451	Adele	Pennington	Home Office	Atlanta	EE. UU.	PR 	833 Amber Anchor Glen	30318
+19450	Sybill	Spencer	Home Office	Caguas	Puerto Rico	PR 	830 Quaking Bear Grounds	725
+19449	Kay	Sandoval	Consumer	Fremont	EE. UU.	PR	1509 Middle Oak Isle	94539
+19448	Stacy	Mckinney	Corporate	Caguas	Puerto Rico	PR	9712 Fallen Robin Diversion	725
+19447	Marah	Lara	Corporate	Rochester	EE. UU.	PR	8665 Sunny Deer Woods	14609
+19446	Taylor	Wood	Corporate	Dallas	EE. UU.	PR	9879 Harvest Deer Farms	75211
+9083	Mary	Frank	Home Office	Bayamon	Puerto Rico	PR	75 Sunny Grounds	957
+4741	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	9731 Honey Fox Towers	725
+639	Elizabeth	Pittman	Home Office	Caguas	Puerto Rico	PR	7573 Golden Treasure Centre	725
+9702	Katherine	Tyler	Home Office	Caguas	Puerto Rico	PR	8369 Sunny Crossing	725
+9114	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	1425 Fallen Fox Arbor	725
+1362	Dennis	Smith	Home Office	Caguas	Puerto Rico	PR	2290 Crystal Pathway	725
+8011	Mary	Hill	Home Office	Caguas	Puerto Rico	PR	6179 Noble Panda Moor	725
+7884	Peter	Smith	Corporate	Greenville	EE. UU.	PR	2127 Cozy Deer Bank	27858
+289	Diana	Richards	Corporate	Morristown	EE. UU.	NJ	3593 Easy Embers Field	7960
+10081	Mary	Castillo	Corporate	San Diego	EE. UU.	CA	9900 Hidden Rise Downs	92115
+1169	Mary	Smith	Corporate	Oxnard	EE. UU.	CA	1055 Crystal Woods	93030
+1182	Mary	Smith	Corporate	Miami	EE. UU.	PR	5365 Tawny Apple Limits	33147
+717	Mary	Camacho	Corporate	Albuquerque	EE. UU.	PR	4845 Thunder Embers Hollow	87111
+20423	Ainsley	Leach	Corporate	Amarillo	EE. UU.	PR	5154 Honey Bend	79109
+5801	Theresa	Pearson	Corporate	Lutz	EE. UU.	PR	6715 Gentle Horse Row	33549
+702	Cynthia	Smith	Corporate	Bend	EE. UU.	PR	6412 Crystal View Townline	97701
+6951	Mary	Williams	Corporate	East Brunswick	EE. UU.	PR	263 Harvest Wood	8816
+6780	Sean	Chung	Corporate	Lancaster	EE. UU.	PR	7111 Cotton Blossom Estates	29720
+6422	Jonathan	Richmond	Corporate	Ontario	EE. UU.	PR	3005 Bright Maze	91762
+289	Diana	Richards	Corporate	Morristown	EE. UU.	NJ	3593 Easy Embers Field	7960
+5384	Christopher	Smith	Corporate	Houston	EE. UU.	TX	5657 Lost Expressway	77015
+2985	Donald	Price	Corporate	Hampton	EE. UU.	VA	183 Velvet Grove Towers	23666
+18349	Rana	Moreno	Corporate	New York	EE. UU.	NY	2275 Rustic Impasse	10016
+11286	Mary	Garcia	Corporate	Porterville	EE. UU.	MI	8279 Bright Fox Highway	93257
+489	William	Smith	Corporate	Portland	EE. UU.	MT	2792 Middle Mount	97223
+4510	Rachel	Cochran	Corporate	Strongsville	EE. UU.	NJ	6414 Jagged Sky Gardens	44136
+9626	Dorothy	Frye	Corporate	El Paso	EE. UU.	CA	4849 Clear Blossom Turnabout	79927
+9494	Robert	Gilmore	Corporate	Del Rio	EE. UU.	GA	8248 Clear Glade	78840
+1718	Mary	Smith	Corporate	Buffalo	EE. UU.	NY	4606 Umber Range	14221
+5384	Christopher	Smith	Corporate	Houston	EE. UU.	TX	5657 Lost Expressway	77015
+5295	Mary	Williams	Corporate	Bountiful	EE. UU.	OH	2058 Quaking Oak Common	84010
+2985	Donald	Price	Corporate	Hampton	EE. UU.	VA	183 Velvet Grove Towers	23666
+3984	Brenda	Webster	Corporate	Kent	EE. UU.	WI	5131 Gentle Limits	98031
+5270	Andrea	Johnson	Corporate	Chicago	EE. UU.	IL	9595 Iron Orchard	60620
+10966	Martha	Pierce	Corporate	Plymouth	EE. UU.	MI	6797 Quiet Mountain Rise	2360
+1868	Mary	Riddle	Corporate	Far Rockaway	EE. UU.	PR 	340 Velvet Barn Gate	11691
+17446	Freya	Golden	Corporate	Houston	EE. UU.	TX	569 Hazy Wynd	77088
+10071	Mary	Lawrence	Corporate	Philadelphia	EE. UU.	PA	5768 Jagged Zephyr Port	19124
+1271	Carolyn	Shea	Corporate	Simi Valley	EE. UU.	MD	1021 Silver Log Cape	93065
+11930	Mary	Gilbert	Corporate	Detroit	EE. UU.	MI	2002 Noble Crescent	48227
+20529	Lynn	Sweeney	Corporate	Garden Grove	EE. UU.	NY	7262 Emerald Boulevard	92840
+8358	Mary	Smith	Corporate	San Diego	EE. UU.	CA	9176 Shady Barn Jetty	92105
+7705	Julia	Robinson	Corporate	Chicago	EE. UU.	IL	3670 Broad Mountain Link	60609
+17392	Patience	Ward	Corporate	Placentia	EE. UU.	TX	7126 Hazy Berry Mount	92870
+18276	Cheryl	Koch	Corporate	San Jose	EE. UU.	TX	4845 Thunder Embers Hollow	95148
+7795	Sandra	Smith	Corporate	Honolulu	EE. UU.	HI	1134 Misty River Woods	96822
+20655	Whitney	Collins	Corporate	Mentor	EE. UU.	CA	5808 Silver Rise Circuit	44060
+2454	Kyle	Curtis	Corporate	Santa Clara	EE. UU.	HI	3180 Golden Cider Circle	95051
+150	Mary	Smith	Corporate	Union	EE. UU.	NJ	5593 Indian Trail	7083
+10671	Timothy	Moses	Corporate	Long Beach	EE. UU.	PR 	1987 Grand Alley	90805
+11924	Mary	Ramos	Corporate	Westminster	EE. UU.	PR 	4463 Cotton Quail Forest	92683
+16086	Aimee	Terrell	Corporate	Pompano Beach	EE. UU.	PR 	5875 Grand Campus	33068
+19445	Felicia	Clark	Corporate	Caguas	Puerto Rico	PR 	9135 Green Island Moor	725
+19444	Wanda	Sanford	Corporate	Sunnyvale	EE. UU.	PR 	1800 Quiet Creek Stead	94087
+19443	Hayfa	Boyle	Corporate	Sugar Land	EE. UU.	PR 	1165 Quiet Inlet	77478
+19442	Lavinia	Houston	Corporate	Caguas	Puerto Rico	PR 	432 Rocky Link	725
+19441	Yetta	Robinson	Corporate	Brighton	EE. UU.	PR 	2607 Clear Branch Cape	2135
+19440	Jennifer	Holmes	Corporate	Caguas	Puerto Rico	PR 	6826 Quiet Lane	725
+19439	Mara	Mcneil	Corporate	Garden Grove	EE. UU.	PR 	9780 Misty Pike	92840
+19438	Cleo	Woodward	Home Office	Caguas	Puerto Rico	PR 	4135 Golden Shadow Front	725
+19437	Cally	Dunn	Corporate	Bismarck	EE. UU.	PR 	8307 Merry Pointe	58501
+19436	Wynter	Gay	Home Office	Caguas	Puerto Rico	PR 	9299 Grand Branch Route	725
+19435	Hyacinth	Nolan	Consumer	Gaithersburg	EE. UU.	PR	2210 Merry Leaf Row	20878
+19434	Emma	Mayo	Corporate	Caguas	Puerto Rico	PR	3309 Harvest Thicket	725
+19433	Xerxes	Terrell	Corporate	Bismarck	EE. UU.	PR	5953 Lost Plaza	58501
+19432	Noel	Wheeler	Corporate	Honolulu	EE. UU.	HI	1070 Dusty Beacon Maze	96817
+19431	Maryam	Grant	Corporate	Lilburn	EE. UU.	PR	7094 Sleepy End	30047
+19430	Naida	Small	Corporate	Caguas	Puerto Rico	PR	9393 Golden View Pike	725
+19429	Lana	Green	Consumer	Virginia Beach	EE. UU.	PR	9627 Little Terrace	23455
+19428	Patience	Woodward	Consumer	Azusa	EE. UU.	PR	1010 Rustic Fox View	91702
+19427	Rylee	Garrett	Corporate	Long Beach	EE. UU.	PR	7735 Gentle Terrace	90813
+19426	Dakota	Green	Consumer	Bronx	EE. UU.	NY	2720 Stony Field	10458
+19425	Fallon	Donovan	Consumer	Caguas	Puerto Rico	PR	45 Merry Bear View	725
+19424	Kylynn	Zimmerman	Consumer	Provo	EE. UU.	PR	3741 Bright Extension	84604
+19423	Inez	Fleming	Consumer	Columbia	EE. UU.	PR	3408 Tawny Spring Glen	38401
+19422	Carolyn	Davenport	Consumer	Caguas	Puerto Rico	PR	4105 Fallen Goose Port	725
+19421	Miriam	Vega	Consumer	Stockton	EE. UU.	PR	6332 Round Range	95207
+19420	Danielle	Rush	Home Office	Marietta	EE. UU.	PR	7121 Foggy Woods	30062
+19419	Chloe	Pickett	Home Office	Caguas	Puerto Rico	PR	482 High Quay	725
+19418	Beverly	Fisher	Consumer	Holland	EE. UU.	PR	7177 Old Nectar Ridge	49423
+19417	Gillian	Camacho	Home Office	Rio Grande	Puerto Rico	PR	6750 Stony Fawn Wood	745
+19416	Madeline	Wooten	Home Office	Brooklyn	EE. UU.	NY	2636 Indian Expressway	11212
+19415	Yoshi	Shelton	Consumer	Caguas	Puerto Rico	PR	9891 Foggy Hills Acres	725
+19414	Hadley	Russell	Corporate	Denver	EE. UU.	PR	7500 Wishing Brook Grove	80219
+19413	Renee	Morales	Corporate	Taylor	EE. UU.	PR	1497 Sleepy Thicket	48180
+19412	Iola	King	Corporate	Caguas	Puerto Rico	PR	5012 Honey Wagon Stead	725
+19411	Tamekah	Blair	Corporate	Chicago	EE. UU.	IL	8832 Old Quay	60637
+19410	Cherokee	Huffman	Corporate	Caguas	Puerto Rico	PR	8707 Foggy View	725
+19409	Odessa	Cherry	Corporate	Detroit	EE. UU.	MI	4148 Indian Landing	48205
+19408	Rose	Mack	Consumer	Caguas	Puerto Rico	PR	4690 Quiet Hickory Campus	725
+19407	Linda	Haley	Consumer	Murfreesboro	EE. UU.	PR	8659 Foggy Deer Port	37130
+19406	May	Kennedy	Consumer	Caguas	Puerto Rico	PR	8284 Colonial Gate Path	725
+19405	Lilah	Holmes	Corporate	Cleveland	EE. UU.	PR	7701 Rustic Carrefour	44102
+19404	Tana	Franklin	Consumer	Caguas	Puerto Rico	PR	406 Shady Cider Corner	725
+19403	Emi	Mitchell	Corporate	Lockport	EE. UU.	PR	4542 Sunny Parade	14094
+19402	Cynthia	Albert	Corporate	Caguas	Puerto Rico	PR	2070 Rocky Apple Front	725
+19401	Myra	Manning	Corporate	Saint Charles	EE. UU.	PR	3761 Foggy Hickory Extension	63301
+19400	Medge	Mcfarland	Corporate	Los Angeles	EE. UU.	CA	9767 Amber Valley	90046
+19399	Chloe	Nichols	Home Office	Cupertino	EE. UU.	PR	3538 Rustic Dale Run	95014
+19398	Beatrice	Holt	Home Office	Caguas	Puerto Rico	PR	1946 Jagged Trail	725
+19397	Ria	Padilla	Home Office	Springfield	EE. UU.	PR	5434 Middle Range	65807
+19396	Charity	Sharpe	Home Office	Caguas	Puerto Rico	PR	7108 Cinder Road	725
+19395	Nell	Garrison	Home Office	Mission Viejo	EE. UU.	PR	1557 High Spring Cove	92692
+19394	Tamara	Larson	Home Office	Los Angeles	EE. UU.	CA	183 Crystal Lake Drive	90042
+19393	Phyllis	Higgins	Home Office	Caguas	Puerto Rico	PR	1870 Crystal Blossom Towers	725
+19392	Nelle	Shaffer	Home Office	Roswell	EE. UU.	PR	8932 High Row	30075
+19391	Aimee	Daugherty	Corporate	Caguas	Puerto Rico	PR	6449 Merry Lagoon Drive	725
+19390	Blossom	Middleton	Home Office	Ypsilanti	EE. UU.	PR	3505 High Mall	48197
+19389	Breanna	Morrison	Corporate	Brooklyn	EE. UU.	NY	7320 Lazy Forest Falls	11218
+19388	Katelyn	Key	Corporate	Caguas	Puerto Rico	PR	851 Green Prairie Park	725
+19387	Karly	Porter	Corporate	Peoria	EE. UU.	PR	5674 Merry Nectar Pines	85345
+19386	Olga	Stein	Corporate	Caguas	Puerto Rico	PR	8651 Heather Drive	725
+19385	Brenna	Wyatt	Corporate	Garden Grove	EE. UU.	PR	3068 Indian Quail Cove	92843
+19384	Tatyana	Tyson	Home Office	Caguas	Puerto Rico	PR	427 Clear Leaf Loop	725
+19383	Ifeoma	Hendricks	Corporate	Clementon	EE. UU.	NJ	5136 Red Prairie Park	8021
+19382	Kitra	Howard	Corporate	Memphis	EE. UU.	TN	5722 Easy Heath	38127
+19381	Summer	Hester	Consumer	Antioch	EE. UU.	PR	8895 Shady Cider Moor	37013
+19380	Sopoline	Hood	Consumer	Caguas	Puerto Rico	PR	4776 Pleasant Pioneer Cape	725
+19379	Emma	Suarez	Home Office	Salt Lake City	EE. UU.	PR	1853 Umber Field	84118
+19378	Eliana	Santos	Consumer	Caguas	Puerto Rico	PR	1142 Round Via	725
+19377	Denise	Young	Consumer	Bakersfield	EE. UU.	PR	2027 Thunder Creek Thicket	93304
+19376	Hermione	Rose	Corporate	Caguas	Puerto Rico	CA	2059 Cozy Field	725
+19375	Lara	Kim	Consumer	Granada Hills	EE. UU.	CA	4436 Tawny Private	91344
+19374	Hedy	Dunn	Consumer	Caguas	Puerto Rico	CA	3914 Silver Horse Cape	725
+19373	Violet	Melton	Home Office	Tallahassee	EE. UU.	NJ	5002 High Bank	32308
+19372	Taylor	Aguilar	Home Office	Caguas	Puerto Rico	CA	1982 Burning Forest	725
+19371	Clare	Jenkins	Home Office	Hempstead	EE. UU.	CA	8776 Green Ridge	11550
+19370	Xerxes	Marsh	Corporate	Caguas	Puerto Rico	NY	2568 Rustic Valley	725
+19369	Rhonda	Bruce	Corporate	Astoria	EE. UU.	FL	3071 Tawny Canyon	11103
+19368	Morgan	Jimenez	Consumer	Gilroy	EE. UU.	CA	9666 Colonial Hickory Thicket	95020
+19367	Illiana	Mcpherson	Consumer	Caguas	Puerto Rico	PA	9739 Round Spring Expressway	725
+19366	Joan	Hickman	Consumer	Azusa	EE. UU.	NY	3847 Blue Place	91702
+19365	Amity	Weber	Consumer	Caguas	Puerto Rico	CA	3567 Rocky Grove	725
+19364	Jayme	Tyler	Consumer	Lenoir	EE. UU.	CA	8324 Little Common	28645
+19363	Geraldine	Mcfadden	Consumer	Columbus	EE. UU.	NC	7802 Gentle Creek Square	43228
+19362	Anika	Stokes	Consumer	Albany	EE. UU.	NY	7176 Bright Timber Passage	97321
+19361	Dana	Hoffman	Consumer	Humacao	Puerto Rico	CA	6888 Wishing Mountain Run	791
+19360	Blossom	Hill	Corporate	Caguas	Puerto Rico	MO	4791 Harvest Quail Limits	725
+19359	Sybil	Noel	Corporate	Lindenhurst	EE. UU.	NC	4482 Velvet Farm	11757
+19358	Genevieve	Joyce	Corporate	Elyria	EE. UU.	TX	4776 Crystal River Stead	44035
+19357	Tara	Gordon	Corporate	Caguas	Puerto Rico	IL	425 Noble Lane	725
+19356	Emma	Armstrong	Consumer	Riverside	EE. UU.	CA	9666 Gentle Shadow Thicket	92504
+19355	Geraldine	Barlow	Corporate	Caguas	Puerto Rico	OH	7550 Sleepy View Court	725
+19354	Lilah	Huff	Home Office	Carson	EE. UU.	TX	777 Sleepy Quail Key	90745
+19353	Ella	Mcmahon	Consumer	Mesa	EE. UU.	MI	6718 High Panda Dell	85204
+19352	Lilah	Glass	Home Office	Caguas	Puerto Rico	CA	9871 Cotton Lagoon End	725
+19351	Alyssa	Fowler	Home Office	Honolulu	EE. UU.	HI	1066 Hidden Green	96818
+19350	Heather	Rocha	Consumer	Caguas	Puerto Rico	NY	7192 Green Arbor	725
+9597	Lori	Perez	Home Office	Caguas	Puerto Rico	CA	1465 Round Fawn Passage	725
+9702	Katherine	Tyler	Home Office	Caguas	Puerto Rico	PR	8369 Sunny Crossing	725
+1362	Dennis	Smith	Home Office	Caguas	Puerto Rico	PR	2290 Crystal Pathway	725
+9467	Billy	Butler	Home Office	Caguas	Puerto Rico	CA	1112 Cinder Woods	725
+9114	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	1425 Fallen Fox Arbor	725
+2546	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	4694 Burning Front	725
+2240	Edward	West	Home Office	Caguas	Puerto Rico	OH	7293 Lazy Hill	725
+11650	Mary	Smith	Home Office	Caguas	Puerto Rico	MI	482 Easy Avenue	725
+2546	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	4694 Burning Front	725
+10368	Matthew	Key	Home Office	Caguas	Puerto Rico	NJ	3709 Green Cider Court	725
+6489	Maria	Macdonald	Home Office	Caguas	Puerto Rico	TN	19 Clear Autumn Estates	725
+10533	Michael	Smith	Home Office	Caguas	Puerto Rico	PA	9138 Indian Nook	725
+6491	Bruce	Cruz	Home Office	Caguas	Puerto Rico	GA	3169 Little Subdivision	725
+9114	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	1425 Fallen Fox Arbor	725
+5564	Mary	Smith	Home Office	Caguas	Puerto Rico	IL	3282 Silent Autoroute	725
+7955	Mary	Rios	Home Office	Caguas	Puerto Rico	CA	9505 Broad Timber Highlands	725
+5728	Sarah	Montoya	Home Office	Caguas	Puerto Rico	CA	8736 Merry Extension	725
+1362	Dennis	Smith	Home Office	Caguas	Puerto Rico	PR	2290 Crystal Pathway	725
+9704	Mary	Mcneil	Home Office	Caguas	Puerto Rico	TX	1358 Quiet Gate Moor	725
+8485	Mary	Simmons	Home Office	Caguas	Puerto Rico	NJ	3108 Middle Wharf	725
+11216	Mary	Morgan	Home Office	Caguas	Puerto Rico	VA	6481 Wishing Anchor Centre	725
+4741	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	9731 Honey Fox Towers	725
+12160	Martha	Richmond	Home Office	Caguas	Puerto Rico	OH	8013 Harvest Close	725
+9495	Nicholas	Smith	Consumer	Caguas	Puerto Rico	NY	6502 Heather Nook	725
+4841	John	Warner	Consumer	Caguas	Puerto Rico	GA	3050 Shady Mews	725
+9803	Mary	Brady	Consumer	Caguas	Puerto Rico	LA	8263 Indian Crossing	725
+8422	Wayne	Crawford	Consumer	Caguas	Puerto Rico	PR	8110 Old Place	725
+7391	Mary	Garrett	Consumer	Caguas	Puerto Rico	NY	3562 Round Edge	725
+11426	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	8663 Crystal Bluff Walk	725
+11664	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	3180 Golden Cider Circle	725
+5339	Mary	Moore	Consumer	Caguas	Puerto Rico	AZ	5687 Clear Maze	725
+3204	Edward	Smith	Consumer	Caguas	Puerto Rico	PA	4293 Rustic Island	725
+4438	Frank	Jennings	Consumer	Caguas	Puerto Rico	GA	1426 Fallen Line	725
+5243	Mary	Smith	Consumer	Caguas	Puerto Rico	NV	2387 Silver Freeway	725
+5089	James	Holloway	Consumer	Caguas	Puerto Rico	CA	4958 Heather Panda Bank	725
+6073	Mary	Campos	Consumer	Caguas	Puerto Rico	PR	1019 Grand Shadow Wynd	725
+8992	Maria	Summers	Consumer	Caguas	Puerto Rico	CA	7969 Thunder Butterfly Mall 	725
+6466	Susan	Meyer	Consumer	Caguas	Puerto Rico	CA	3662 Middle Willow Promenade	725
+1962	Marie	Smith	Consumer	Caguas	Puerto Rico	PR	1794 High Diversion	725
+11438	Mary	Pugh	Consumer	Caguas	Puerto Rico	MA	6001 Iron Diversion	725
+9524	Mary	Nelson	Consumer	Caguas	Puerto Rico	CA	5407 Sunny Wagon  Valley	725
+2078	Roger	Morales	Consumer	San Juan	Puerto Rico	PR	1655 Sleepy Pine Common	921
+2464	Teresa	Warner	Consumer	Caguas	Puerto Rico	NY	6534 Cinder Campus	725
+11426	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	8663 Crystal Bluff Walk	725
+11664	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	3180 Golden Cider Circle	725
+3770	Mary	Johnson	Consumer	San Sebastian	Puerto Rico	VA	2383 Crystal Panda Mount	685
+1306	Zachary	Taylor	Consumer	Caguas	Puerto Rico	NJ	4606 Tawny Autoroute	725
+10811	Joshua	Carter	Consumer	Caguas	Puerto Rico	PR 	1948 Round Nectar Via	725
+6073	Mary	Campos	Consumer	Caguas	Puerto Rico	PR	1019 Grand Shadow Wynd	725
+12033	Aaron	Villa	Consumer	Caguas	Puerto Rico	NY 	3385 Cotton Wharf	725
+9248	Mary	Luna	Consumer	Caguas	Puerto Rico	IN	340 Velvet Barn Gate	725
+2214	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	6567 Red Sky Gate	725
+6738	Mary	Taylor	Consumer	Caguas	Puerto Rico	CA	9022 Foggy Dell	725
+5074	Karen	Smith	Consumer	Caguas	Puerto Rico	CA	1063 Fallen Subdivision	725
+9148	Robert	Gallagher	Consumer	Caguas	Puerto Rico	PR	2220 Quaking Lookout	725
+8551	Harold	Dalton	Corporate	Los Angeles	EE. UU.	CA	3294 Hazy Creek Farm	90065
+5270	Andrea	Johnson	Corporate	Chicago	EE. UU.	IL	9595 Iron Orchard	60620
+7163	Mary	Jones	Corporate	Detroit	EE. UU.	MI	6867 Honey Heights	48205
+9163	Mary	Russell	Corporate	Billings	EE. UU.	PR	1303 Dewy Square	59102
+20402	Cleo	Buchanan	Corporate	North Bergen	EE. UU.	PR	3233 Silent Dale Manor	7047
+4807	Raymond	Rodgers	Corporate	Mission Viejo	EE. UU.	CA	3796 Lost Hollow	92691
+88	Mary	Henry	Corporate	Atlanta	EE. UU.	CA 	7262 Cotton Arbor	30318
+7697	Hannah	Wilkins	Corporate	New York	EE. UU.	NY	8344 Colonial Maze	10002
+18007	Audra	Weber	Corporate	Baltimore	EE. UU.	MD	6651 Quaking Highlands	21218
+8720	Mary	Alvarado	Corporate	Strongsville	EE. UU.	PR 	6580 Iron Wagon  Inlet	44136
+1718	Mary	Smith	Corporate	Buffalo	EE. UU.	NY	4606 Umber Range	14221
+7795	Sandra	Smith	Corporate	Honolulu	EE. UU.	HI	1134 Misty River Woods	96822
+12100	Richard	Bolton	Corporate	Chicago	EE. UU.	IL	4675 Sleepy Rise	60609
+11979	Brandon	Smith	Corporate	Madison	EE. UU.	TX	3815 Tawny Swale	53704
+150	Mary	Smith	Corporate	Union	EE. UU.	NJ	5593 Indian Trail	7083
+3905	Denise	Smith	Corporate	South San Francisco	EE. UU.	PR	1982 Rocky Parkway	94080
+3296	Mary	Smith	Home Office	Caguas	Puerto Rico	PR	8205 Silver Grove Row	725
+3182	Frances	Smith	Home Office	Caguas	Puerto Rico	PR 	7786 Middle Private	725
+7864	Alice	Smith	Home Office	Caguas	Puerto Rico	PR 	4294 High Passage	725
+11169	Kyle	Thomas	Home Office	Caguas	Puerto Rico	PR	5274 Easy Beach	725
+1509	Patricia	Petersen	Consumer	Freeport	EE. UU.	IL	3675 Emerald Goose Bank	11520
+1636	Julie	Petersen	Consumer	Fort Washington	EE. UU.	MD	9375 Harvest Circuit	20744
+2784	Lisa	Smith	Consumer	Bakersfield	EE. UU.	PR	3993 Thunder Hills Port	93304
+1636	Julie	Petersen	Consumer	Fort Washington	EE. UU.	MD	9375 Harvest Circuit	20744
+9174	Tyler	Smith	Consumer	Corona	EE. UU.	TX	9414 Thunder Island Court	11368
+122	Karen	Smith	Consumer	Cincinnati	EE. UU.	PR	7573 Cozy Goose Road	45238
+3800	Shawn	Smith	Consumer	Germantown	EE. UU.	TN	5985 Silent Leaf Vale	20874
+10029	Mary	Silva	Consumer	Carrollton	EE. UU.	NY	1230 Crystal Lookout	75006
+3800	Shawn	Smith	Consumer	Germantown	EE. UU.	TN	5985 Silent Leaf Vale	20874
+2805	Willie	Smith	Consumer	Houston	EE. UU.		6350 Lost Hollow	77093
+1509	Patricia	Petersen	Consumer	Freeport	EE. UU.	IL	3675 Emerald Goose Bank	11520
+2805	Willie	Smith	Consumer	Houston	EE. UU.		6350 Lost Hollow	77093
+12253	Mary	Chan	Consumer	Carlisle	EE. UU.		4898 Red Butterfly Autoroute	17013
+3528	Nicole	Brooks	Consumer	Los Angeles	EE. UU.		7312 Crystal Willow Villas	90023
+11018	Bruce	Smith	Consumer	Ewa Beach	EE. UU.		9595 Blue Promenade	96706
+3222	Mary	Williams	Consumer	Lakewood	EE. UU.		1790 Noble Brook Run	8701
+11292	William	Saunders	Home Office	Caguas	Puerto Rico		7971 Foggy Highway	725
+7864	Alice	Smith	Home Office	Caguas	Puerto Rico	PR 	4294 High Passage	725
+47	Lori	Fuller	Home Office	Caguas	Puerto Rico		357 Noble Lane	725
+6405	Mary	Anderson	Home Office	Caguas	Puerto Rico		9234 Green Farm	725
+6405	Mary	Anderson	Home Office	Caguas	Puerto Rico		9234 Green Farm	725
+11169	Kyle	Thomas	Home Office	Caguas	Puerto Rico	PR	5274 Easy Beach	725
+2426	Mary	Phillips	Home Office	Caguas	Puerto Rico		1088 Jagged Hills Nook	725
+11292	William	Saunders	Home Office	Caguas	Puerto Rico		7971 Foggy Highway	725
+6352	Madison	Smith	Home Office	Caguas	Puerto Rico		4167 Stony Extension	725
+5870	John	Hughes	Home Office	Caguas	Puerto Rico		9005 Old Robin Plaza	725
+11776	Mary	Smith	Home Office	Caguas	Puerto Rico		7962 Thunder Zephyr Bend	725
+7060	Virginia	Carroll	Home Office	Caguas	Puerto Rico		5958 Emerald Nook	725
+3466	Evelyn	Smith	Home Office	Caguas	Puerto Rico		907 Merry Forest Way	725
+11776	Mary	Smith	Home Office	Caguas	Puerto Rico		7962 Thunder Zephyr Bend	725
+2426	Mary	Phillips	Home Office	Caguas	Puerto Rico		1088 Jagged Hills Nook	725
+2426	Mary	Phillips	Home Office	Caguas	Puerto Rico		1088 Jagged Hills Nook	725
+1575	John	Greene	Home Office	Caguas	Puerto Rico		3440 Emerald Knoll	725
+5820	Margaret	Smith	Home Office	Caguas	Puerto Rico		6692 Round Hill	725
+8608	Mary	Robertson	Home Office	Caguas	Puerto Rico		9514 Old Branch Highway	725
+3104	Megan	Smith	Home Office	Caguas	Puerto Rico		5292 Shady Pony Cape	725
+47	Lori	Fuller	Home Office	Caguas	Puerto Rico		357 Noble Lane	725
+7060	Virginia	Carroll	Home Office	Caguas	Puerto Rico		5958 Emerald Nook	725
+1627	Mary	Gonzales	Consumer	Caguas	Puerto Rico		7320 Wishing Rise Mall 	725
+1243	Joan	Rosales	Consumer	Caguas	Puerto Rico		1777 High Alley	725
+7635	Mary	Bridges	Consumer	Caguas	Puerto Rico		3611 Crystal Pony Park	725
+7200	Katherine	Smith	Consumer	Caguas	Puerto Rico		3899 Blue Nook	725
+3142	Brenda	Smith	Consumer	Caguas	Puerto Rico		4352 Quiet Horse Via	725
+8024	Christopher	Smith	Consumer	Caguas	Puerto Rico		3006 Sleepy Leaf Farm	725
+5023	Mary	Smith	Consumer	Caguas	Puerto Rico		4197 Emerald Hollow	725
+9581	Deborah	Smith	Consumer	Caguas	Puerto Rico		7130 Velvet Jetty	725
+9294	Mary	Blackwell	Consumer	Caguas	Puerto Rico		9922 Misty Oak Inlet	725
+9581	Deborah	Smith	Consumer	Caguas	Puerto Rico		7130 Velvet Jetty	725
+3797	David	Gutierrez	Consumer	Caguas	Puerto Rico		8321 Little Stead	725
+11999	Johnny	Smith	Consumer	Caguas	Puerto Rico		4729 Quiet Dale Limits	725
+3715	Debra	Burnett	Consumer	Caguas	Puerto Rico		9889 Little Blossom Wood	725
+2922	Madison	Russo	Consumer	Caguas	Puerto Rico	PR 	7449 Sleepy Edge	725
+7175	Judy	Webb	Consumer	Caguas	Puerto Rico	PR 	2861 Velvet Pointe	725
+967	Madison	Smith	Consumer	Caguas	Puerto Rico		8688 Fallen Anchor Lookout	725
+8098	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	7761 Silent Hickory Drive	725
+8098	Mary	Smith	Consumer	Caguas	Puerto Rico	PR	7761 Silent Hickory Drive	725
+8481	Mary	Smith	Consumer	Caguas	Puerto Rico		9393 Honey Autoroute	725
+8205	Lawrence	Cummings	Consumer	Caguas	Puerto Rico		6716 Wishing Pioneer Thicket	725
+10668	Mary	Smith	Consumer	Caguas	Puerto Rico	PR 	5087 Crystal Hills Manor	725
+11380	Jane	Smith	Consumer	Caguas	Puerto Rico		9299 Heather Deer Pathway	725
+12052	Mary	Burke	Consumer	Caguas	Puerto Rico		3019 Old Mews	725
+3915	Heather	Smith	Consumer	Caguas	Puerto Rico		7370 Sunny Mountain	725
+8051	Emily	Hutchinson	Consumer	Caguas	Puerto Rico		1467 Wishing Anchor Centre	725
+3249	Mary	Mcgrath	Consumer	Caguas	Puerto Rico		4113 Merry Barn Expressway	725
+7894	Emma	Moore	Consumer	Caguas	Puerto Rico		9666 Middle Oak Bank	725
+9197	Mary	Sutton	Consumer	Caguas	Puerto Rico		5224 Sleepy Townline	725
+967	Madison	Smith	Consumer	Caguas	Puerto Rico		8688 Fallen Anchor Lookout	725
+5855	Daniel	Young	Consumer	Caguas	Puerto Rico		5482 Amber Park	725
+3249	Mary	Mcgrath	Consumer	Caguas	Puerto Rico		4113 Merry Barn Expressway	725
+4611	Dorothy	Smith	Consumer	Caguas	Puerto Rico		3926 Stony Gardens	725
+1657	Betty	Phillips	Consumer	Caguas	Puerto Rico		1475 Red Berry Village	725
+8051	Emily	Hutchinson	Consumer	Caguas	Puerto Rico		1467 Wishing Anchor Centre	725
+9202	Mary	Skinner	Consumer	Caguas	Puerto Rico		4563 Silver Rabbit Island	725
+2922	Madison	Russo	Consumer	Caguas	Puerto Rico	PR 	7449 Sleepy Edge	725
+9368	Mary	Cabrera	Consumer	Caguas	Puerto Rico		7464 Quaking Stead	725
+712	Mary	Ayala	Consumer	Vega Baja	Puerto Rico		3033 Tawny Zephyr Cape	693
+1222	Michael	Garcia	Consumer	Caguas	Puerto Rico	PR	9026 Little Avenue	725
+275	Robert	Smith	Consumer	Caguas	Puerto Rico		9598 Iron Park	725
+12279	Mary	Dunn	Consumer	Caguas	Puerto Rico		5860 Grand Limits	725
+2922	Madison	Russo	Consumer	Caguas	Puerto Rico	PR 	7449 Sleepy Edge	725
+8520	Denise	Smith	Consumer	Caguas	Puerto Rico		2557 Gentle Treasure Extension	725
+3373	Mary	Willis	Consumer	Caguas	Puerto Rico		9749 Red Barn Harbour	725
+8587	James	Roy	Consumer	San Juan	Puerto Rico		2845 Misty Mountain Freeway	921
+288	Judith	Smith	Consumer	San Juan	Puerto Rico		3257 Sleepy View Downs	921
+8004	Mary	Smith	Consumer	Caguas	Puerto Rico		7780 Cozy Pond Court	725
+1507	Mary	Smith	Consumer	Caguas	Puerto Rico		436 Noble Shadow Estates	725
+228	Jessica	Clark	Consumer	Caguas	Puerto Rico		521 Fallen Lagoon Glade	725
+10753	Gregory	Mitchell	Consumer	Caguas	Puerto Rico		8093 Green Leaf Vista	725
+2368	Mary	Medina	Consumer	Caguas	Puerto Rico		952 Misty Brook Highlands	725
+9484	Mary	Howell	Consumer	Caguas	Puerto Rico		3888 Rustic Line	725
+7005	James	Carpenter	Consumer	Caguas	Puerto Rico		8307 Merry Pointe	725
+8587	James	Roy	Consumer	San Juan	Puerto Rico		2845 Misty Mountain Freeway	921
+3373	Mary	Willis	Consumer	Caguas	Puerto Rico		9749 Red Barn Harbour	725
+9164	Frances	Estrada	Consumer	Caguas	Puerto Rico		3261 Little Meadow	725
+10500	Mary	Smith	Consumer	Caguas	Puerto Rico		1800 Tawny Zephyr Terrace	725
+3814	Eric	Salazar	Consumer	Caguas	Puerto Rico		2104 Green Landing	725
+4346	James	Smith	Consumer	Caguas	Puerto Rico		2059 Cozy Field	725
+2233	Jack	Duke	Consumer	Caguas	Puerto Rico		4352 Hazy Hickory Road	725
+7045	Helen	Smith	Consumer	Caguas	Puerto Rico		9539 Velvet Trace	725
+7330	Mary	Smith	Consumer	Caguas	Puerto Rico		4712 Quiet Sky Close	725
+2136	Catherine	Turner	Consumer	Caguas	Puerto Rico		1116 Hazy Path	725
+12333	Mary	Thomas	Consumer	Caguas	Puerto Rico		4849 Foggy Zephyr Cape	725
+9554	Mary	Hayes	Consumer	Caguas	Puerto Rico	PR	6314 Honey Canyon	725
+2062	Sharon	Smith	Consumer	Caguas	Puerto Rico		5645 Sunny Spring Gate	725
+2518	Mary	Smith	Consumer	Caguas	Puerto Rico		826 Tawny Embers Expressway	725
+7007	Mary	Mckinney	Consumer	Caguas	Puerto Rico		8560 Rustic Pond Promenade	725
+11743	Alexander	Smith	Consumer	Caguas	Puerto Rico		5892 Emerald Shadow Boulevard	725
+5001	Ann	Waller	Consumer	Caguas	Puerto Rico		7620 Thunder Gate	725
+6162	Wayne	Hood	Consumer	Caguas	Puerto Rico		7763 Emerald Route	725
+6162	Wayne	Hood	Consumer	Caguas	Puerto Rico		7763 Emerald Route	725
+4045	Mary	Neal	Consumer	Caguas	Puerto Rico		8613 Merry Lagoon Freeway	725
+2053	Ronald	Smith	Consumer	Caguas	Puerto Rico	PR	1025 Colonial Plaza	725
+4209	Mary	Lara	Consumer	Caguas	Puerto Rico	PR	1613 Broad Beach	725
+11197	Mary	Conrad	Consumer	Caguas	Puerto Rico		2104 Burning Mount	725
+9554	Mary	Hayes	Consumer	Caguas	Puerto Rico	PR	6314 Honey Canyon	725
+6736	Timothy	Guzman	Corporate	San Diego	EE. UU.		9674 Little Knoll	92129
+552	Mary	Harper	Corporate	Los Angeles	EE. UU.		529 Merry Zephyr Heath	90011
+7733	Mary	Torres	Corporate	Hanford	EE. UU.		4741 Red Elk Trail	93230
+3424	Patricia	Leblanc	Corporate	Clementon	EE. UU.		1721 Old Forest Parkway	8021
+3424	Patricia	Leblanc	Corporate	Clementon	EE. UU.		1721 Old Forest Parkway	8021
+1263	Emily	Gould	Corporate	Ontario	EE. UU.		6179 Noble Panda Moor	91764
+7347	Carolyn	Gallegos	Corporate	Huntington Station	EE. UU.	NY	2070 Indian Leaf Edge	11746
+5271	Mary	Hall	Corporate	North Hills	EE. UU.		9861 Grand Elk Trace	91343
+7707	Anna	Smith	Corporate	Brooklyn	EE. UU.		5721 Iron Willow Hollow	11216
+12055	Emily	Richardson	Corporate	Orlando	EE. UU.		5995 Shady Anchor Canyon	32825
+10365	Amy	Smith	Corporate	Winnetka	EE. UU.		3137 Old Cider Gardens	91306
+1618	Mary	Davidson	Corporate	Philadelphia	EE. UU.		1804 Shady Maze	19139
+11573	Judy	Smith	Corporate	Brooklyn	EE. UU.		3178 Silent Rise Square	11213
+12055	Emily	Richardson	Corporate	Orlando	EE. UU.		5995 Shady Anchor Canyon	32825
+1331	Mary	Smith	Corporate	Panorama City	EE. UU.		7094 Golden Parade	91402
+5097	Jennifer	Moore	Corporate	Martinez	EE. UU.		6721 Lost Drive	94553
+7178	Mary	Smith	Corporate	Greenville	EE. UU.		7550 Bright Goose Boulevard	27858
+8404	Joshua	Taylor	Corporate	Troy	EE. UU.		6459 Indian Trail	12180
+10518	Jesse	Dawson	Corporate	Rialto	EE. UU.		9335 Sleepy Meadow	92376
+1342	Laura	Savage	Corporate	Saint Peters	EE. UU.		4061 Crystal Acres	63376
+1342	Laura	Savage	Corporate	Saint Peters	EE. UU.		4061 Crystal Acres	63376
+2511	Teresa	Grimes	Corporate	Apex	EE. UU.		122 Stony Quail Canyon	27502
+7347	Carolyn	Gallegos	Corporate	Huntington Station	EE. UU.	NY	2070 Indian Leaf Edge	11746
+248	Christina	Walsh	Corporate	Houston	EE. UU.		3836 Stony Point	77083
+5917	Ashley	Smith	Corporate	Mchenry	EE. UU.		4617 Sunny Range	60050
+10983	Mary	Frank	Corporate	Fontana	EE. UU.		2736 Blue Crest	92335
+11114	Mary	Owens	Corporate	Columbus	EE. UU.		7746 Hazy Prairie Drive	43230
+5902	Mary	Jones	Corporate	Mission	EE. UU.		9650 Easy Autoroute	78572
+11930	Mary	Gilbert	Corporate	Detroit	EE. UU.	MI	2002 Noble Crescent	48227
+1219	Angela	Freeman	Corporate	Detroit	EE. UU.		9725 Cotton Forest	48205
+4269	Mary	Calderon	Corporate	Tustin	EE. UU.		2674 Quaking Wagon  Range	92780
+6725	Mary	Alexander	Corporate	Philadelphia	EE. UU.		9188 Bright Crossing	19134
+5054	Paul	Thomas	Corporate	Brooklyn	EE. UU.		6907 Stony Arbor	11214
+10648	Mary	Smith	Corporate	Los Angeles	EE. UU.		5810 Sleepy Hill	90007
+4986	Katherine	Cole	Corporate	Santa Ana	EE. UU.		5808 Grand Sky Field	92707
+6708	Mary	Costa	Corporate	Virginia Beach	EE. UU.		6161 Hidden Bluff Trace	23455
+6872	Mary	Lloyd	Corporate	Azusa	EE. UU.		4776 Crystal River Stead	91702
+11170	Mary	Newman	Corporate	Philadelphia	EE. UU.		7518 Noble Parkway	19149
+289	Diana	Richards	Corporate	Morristown	EE. UU.	NJ	3593 Easy Embers Field	7960
+4707	Victoria	Smith	Corporate	Harvey	EE. UU.		3593 Blue Brook Acres	60426
+3085	Richard	Smith	Corporate	Cleveland	EE. UU.		4208 High Promenade	44102
+2319	Mary	Holland	Corporate	Jackson	EE. UU.		3601 Rustic Branch Gate	49201
+3302	Terry	Smith	Corporate	Salem	EE. UU.		1744 Little Mews	97301
+3815	Mary	Sloan	Corporate	Bloomfield	EE. UU.		2589 Iron Pines	7003
+10226	Mary	Smith	Corporate	Murfreesboro	EE. UU.		2591 Velvet Log Cape	37130
+2456	Joan	Donaldson	Corporate	York	EE. UU.		8323 Heather Cape	17402
+4477	Jonathan	Smith	Corporate	Duluth	EE. UU.		5676 Wishing Hill	30096
+4427	Edward	Soto	Corporate	Carlisle	EE. UU.		6127 Dewy Goose Downs	17013
+3628	Alice	Michael	Corporate	Elgin	EE. UU.		1948 Stony Timber Lookout	60120
+3029	Bryan	Smith	Corporate	Winnetka	EE. UU.		3586 Clear Key	91306
+11791	Mary	Lee	Corporate	Riverside	EE. UU.		7422 Noble Thicket	92509
+5935	Mary	Smith	Corporate	Philadelphia	EE. UU.		3481 Wishing Port	19148
+12381	Mary	Olsen	Corporate	Austin	EE. UU.		1208 Cotton Bluff Carrefour	78704
+6227	David	Weber	Corporate	New Brunswick	EE. UU.		3803 Dusty Edge	8901
+1899	Susan	Smith	Corporate	Norfolk	EE. UU.		7760 Fallen Circuit	23503
+11337	Mary	Howell	Corporate	Danbury	EE. UU.		7596 Silent Mews	6810
+5941	Douglas	Smith	Corporate	Newark	EE. UU.		1656 Honey Rise Village	43055
+8556	Daniel	Pruitt	Corporate	Bronx	EE. UU.		5404 Silent Barn Run	10469
+2871	Sharon	Mitchell	Corporate	Marietta	EE. UU.		6081 Burning Grounds	30066
+11586	Nancy	Wright	Corporate	New Orleans	EE. UU.		1983 Little Falls	70122
+4070	Mary	Steele	Corporate	Bridgeton	EE. UU.		5351 Old Pine Village	8302
+6376	Crystal	Rodriguez	Corporate	North Tonawanda	EE. UU.		1991 Indian Horse Range	14120
+10591	Deborah	Humphrey	Corporate	Plymouth	EE. UU.		141 Honey Way	2360
+242	Mary	Stein	Corporate	Mililani	EE. UU.	HI	5292 Heather Zephyr Forest	96789
+7268	Mary	Reed	Corporate	Davis	EE. UU.		556 Velvet Landing	95616
+3598	Marilyn	Morris	Corporate	Tucson	EE. UU.		1116 Heather Row	85719
+1958	Mary	Ward	Corporate	Lancaster	EE. UU.		9022 Foggy Dell	17601
+9307	Mary	Frederick	Corporate	Stone Mountain	EE. UU.		183 Cozy Pond Trail	30083
+3995	Kathryn	Gallegos	Corporate	North Las Vegas	EE. UU.		3709 Green Cider Court	89030
+3485	Mary	Smith	Corporate	San Bernardino	EE. UU.		8842 Crystal Horse Green	92410
+5732	Jacob	Perry	Corporate	Frankfort	EE. UU.		3235 Quiet Arbor	40601
+8100	Victoria	Smith	Corporate	Upland	EE. UU.		2122 Clear Rise Common	91786
+1475	Mary	Smith	Corporate	Rosemead	EE. UU.		6340 Colonial Branch Park	91770
+552	Mary	Harper	Corporate	Los Angeles	EE. UU.		529 Merry Zephyr Heath	90011
+7113	Mary	Shepherd	Corporate	North Richland Hills	EE. UU.		5630 Silent Farms	76180
+10667	Walter	Prince	Corporate	Methuen	EE. UU.		981 Dewy Cove	1844
+10643	Katherine	Delgado	Corporate	Escondido	EE. UU.		7790 Broad Pond Crossing	92025
+2571	Zachary	Beasley	Corporate	Mount Pleasant	EE. UU.		7591 Colonial Edge	48858
+10643	Katherine	Delgado	Corporate	Escondido	EE. UU.		7790 Broad Pond Crossing	92025
+8650	Patricia	Fitzpatrick	Corporate	Buffalo	EE. UU.		7498 Red Willow Subdivision	14221
+5674	Ethan	Cross	Corporate	Ewa Beach	EE. UU.		9133 Cotton Robin Vale	96706
+10643	Katherine	Delgado	Corporate	Escondido	EE. UU.		7790 Broad Pond Crossing	92025
+210	Jonathan	Burns	Corporate	Caguas	Puerto Rico		432 Rocky Link	725
+1153	Mary	Sanford	Consumer	Woodbridge	EE. UU.		5700 Golden Pathway	22192
+10499	Theresa	Little	Corporate	Princeton	EE. UU.		1865 Bright Dale Walk	8540
+7687	Evelyn	Valencia	Home Office	Caguas	Puerto Rico	 PR	9183 Velvet Deer Circuit	725
+7576	Frances	Smith	Home Office	Caguas	Puerto Rico		4379 Rocky Diversion	725
+11187	Mary	Smith	Consumer	Caguas	Puerto Rico		5387 Clear Inlet	725
+9742	Mary	Frost	Home Office	New York	EE. UU.		4208 Jagged Apple Dale	10021
+3915	Heather	Smith	Consumer	Caguas	Puerto Rico		7370 Sunny Mountain	725
+4316	Kevin	Tran	Corporate	Indianapolis	EE. UU.		6471 Gentle Bank	46226
+10582	Mary	Ryan	Consumer	Caguas	Puerto Rico		7353 Indian Anchor Line	725
+10893	Lisa	Smith	Corporate	Riverside	EE. UU.		3763 Noble Prairie Heights	92503
+8744	Mary	Wells	Consumer	Salinas	EE. UU.		3931 Gentle Ramp	93905
+8807	Mary	Terrell	Consumer	Caguas	Puerto Rico		6587 Stony Nectar Pointe	725
+11616	Carol	Smith	Home Office	Wyoming	EE. UU.		8219 Wishing Creek Close	49509
+711	Barbara	Mccarthy	Corporate	Caguas	Puerto Rico		9456 Dewy Gate	725
+6499	Ashley	Peterson	Home Office	Denver	EE. UU.		4895 Lost Swale	80219
+8572	Victoria	Smith	Consumer	Caguas	Puerto Rico		7732 Lost Vale	725
+7994	Ralph	Smith	Corporate	Caguas	Puerto Rico		1744 Shady Dale	725
+8478	Mary	Sweeney	Corporate	Rowland Heights	EE. UU.		1565 Emerald Field	91748
+5845	Daniel	Bruce	Home Office	La Mesa	EE. UU.		6032 Jagged Butterfly Canyon	91941
+9807	Mary	Lopez	Consumer	Vista	EE. UU.		6229 Clear Oak Lookout	92084
+11757	Mary	Boyle	Consumer	Caguas	Puerto Rico		2974 Honey Villas	725
+5785	Mary	Frost	Home Office	Caguas	Puerto Rico		5271 Rocky Pathway	725
+9129	Judy	Arnold	Corporate	Caguas	Puerto Rico		3836 Stony Point	725
+9326	Linda	Hess	Consumer	Portland	EE. UU.		7628 Silent Bluff Street	97206
+2641	Betty	Spears	Consumer	Carrollton	EE. UU.		6398 Indian Brook Valley	75006
+10245	Mary	Mclaughlin	Corporate	Dallas	EE. UU.		8840 Harvest Towers	75217
+1168	Elizabeth	Mccann	Corporate	Edinburg	EE. UU.		9514 Old Branch Highway	78539
+12363	Kimberly	Meza	Consumer	Caguas	Puerto Rico		1284 Burning Hickory Square	725
+7512	Susan	Smith	Consumer	Caguas	Puerto Rico		9709 Dewy Pointe	725
+10291	Ann	Smith	Corporate	Aurora	EE. UU.		9234 Lost Bay	80013
+11044	Daniel	Henson	Consumer	Memphis	EE. UU.		9776 Clear Rise	38127
+1826	Matthew	Smith	Corporate	Caguas	Puerto Rico		3150 Noble Walk	725
+1804	Kathleen	Lee	Corporate	Howell	EE. UU.		1381 Rocky Limits	48843
+11551	Lawrence	Harrison	Consumer	Caguas	Puerto Rico		9526 Blue Manor	725
+11674	Christina	Daniel	Consumer	Caguas	Puerto Rico		2455 Cotton Limits	725
+1718	Mary	Smith	Corporate	Buffalo	EE. UU.	NY	4606 Umber Range	14221
+614	Jack	Benson	Corporate	Caguas	Puerto Rico		9181 Colonial Bear Lookout	725
+2353	Mary	Smith	Consumer	Dallas	EE. UU.		4560 Rustic View	75240
+7735	Mary	Luna	Consumer	Caguas	Puerto Rico		8189 Clear Isle	725
+1445	Linda	Ortiz	Consumer	San Diego	EE. UU.		9761 Grand Shadow Extension	92115
+6199	Mary	Jacobs	Consumer	Corona	EE. UU.		1866 Velvet Forest Field	11368
+6817	Mary	Garrett	Consumer	Zanesville	EE. UU.		6324 Jagged Orchard	43701
